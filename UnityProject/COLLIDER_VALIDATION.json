@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "collider_records": 14040,
+  "visual_boxes_checked": 13981,
+  "roof_boxes_reconstructed_at_runtime": [
+    "B01-ROOF",
+    "B02-ROOF",
+    "B03-ROOF",
+    "B01-B02MAIN-ROOF",
+    "B01-B02LOGISTICS-ROOF",
+    "B02-B03MAIN-ROOF",
+    "B02-B03LOGISTICS-ROOF"
+  ],
+  "centers_corrected": 5424,
+  "max_visual_bounds_error_m": 1.3977016237731732e-05,
+  "stair_ramp_count": 52,
+  "spawn_AABB_clearance": "PASS",
+  "block_ground_anchors": "PASS",
+  "Unity_runtime": "NOT_RUN"
+}

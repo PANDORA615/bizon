@@ -1,0 +1,9 @@
+{
+  "name": "RFC.Runtime",
+  "rootNamespace": "RFC.Horror",
+  "references": [
+    "glTFast",
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}

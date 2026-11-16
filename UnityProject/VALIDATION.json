@@ -1,0 +1,55 @@
+{
+  "integration_version": "1.0.0",
+  "target": "Unity 6 / Built-in / desktop",
+  "checks": {
+    "pinned_packages_builtin_pipeline": "PASS",
+    "asset_meta_and_scene_script_guids": "PASS",
+    "build_scene_and_input_settings": "PASS",
+    "block_1_raw_glb_integrity": "PASS",
+    "block_2_raw_glb_integrity": "PASS",
+    "block_3_raw_glb_integrity": "PASS",
+    "collider_schema_and_ids": "PASS",
+    "lighting_metadata": "PASS",
+    "glb_collider_coordinate_alignment": "PASS",
+    "CSharp_syntax_tree": "PASS"
+  },
+  "geometry": {
+    "status": "PASS",
+    "collider_records": 14040,
+    "visual_boxes_checked": 13981,
+    "roof_boxes_reconstructed_at_runtime": [
+      "B01-ROOF",
+      "B02-ROOF",
+      "B03-ROOF",
+      "B01-B02MAIN-ROOF",
+      "B01-B02LOGISTICS-ROOF",
+      "B02-B03MAIN-ROOF",
+      "B02-B03LOGISTICS-ROOF"
+    ],
+    "centers_corrected": 5424,
+    "max_visual_bounds_error_m": 1.3977016237731732e-05,
+    "stair_ramp_count": 52,
+    "spawn_AABB_clearance": "PASS",
+    "block_ground_anchors": "PASS",
+    "Unity_runtime": "NOT_RUN"
+  },
+  "source_semantics": "Import API and X reflection checked against official glTFast 6.21.0 package source. Unity 6000.0.62f1 verified in official release API.",
+  "Unity_editor_present": false,
+  "Unity_compilation": "NOT_RUN",
+  "Unity_PlayMode": "NOT_RUN",
+  "Unity_material_rendering": "NOT_RUN",
+  "character_stairs_and_routes": "NOT_RUN",
+  "standalone_build": "NOT_RUN",
+  "GPU_CPU_FPS": "NOT_RUN",
+  "acceptance": "PROJECT_PREPARED; requires first run and validation in Unity Editor. No working-build claim.",
+  "feature_scope": {
+    "player_and_gravity": "IMPLEMENTED_NOT_RUN",
+    "model_import": "IMPLEMENTED_NOT_RUN",
+    "collider_creation": "IMPLEMENTED_NOT_RUN",
+    "day_night_and_flashlight": "IMPLEMENTED_NOT_RUN",
+    "visibility_culling": "IMPLEMENTED_NOT_RUN",
+    "streaming": "NOT_IMPLEMENTED",
+    "AI": "NOT_IMPLEMENTED",
+    "multiplayer": "NOT_IMPLEMENTED"
+  }
+}

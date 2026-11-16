@@ -1,6 +1,22 @@
-# RFC Horror — карта для Blender
+# RFC Horror — Blender и Unity 6
 
 Генератор и собранная сцена комплекса из трёх блоков. Размеры: 420×320×24 м, 520×360×24 м и 420×320×24 м. B01/B02 — четыре уровня; B03 — сортировка с антресолью +6 м.
+
+
+## Походить в Unity 6
+
+- **[Скачать Unity-проект — RFC_Horror_Unity6.zip](https://github.com/PANDORA615/bizon/raw/refs/heads/main/RFC_Horror_Unity6.zip)**
+- [Инструкция запуска и управление](UnityProject/README_RU.md)
+- [Исходники Unity-проекта](UnityProject)
+
+Распакуй архив → Unity Hub → Add project from disk → выбери папку **UnityProject** → открой в **Unity 6.0.62f1 или новее** → дождись пакетов → открой `Assets/RFC/Scenes/RFC_Walk.unity` → **Play** → кликни в **Game**.
+
+WASD — ходьба, мышь — обзор, Shift — бег, Space — прыжок, F — фонарь, N — день/ночь, Esc — курсор. Blender для Unity-проекта не нужен. До нажатия Play карта не отображается: все три блока загружаются при старте.
+
+В проект добавлены загрузка GLB с материалами, CharacterController, гравитация, коллайдеры, лестничные рампы и отсечение далёких объектов. Первое открытие требует интернета для Unity Package Registry. Используется **Built-in**, не URP/HDRP.
+
+**Статус:** исходники проекта подготовлены и проверены без Unity Editor. Компиляция, Play Mode, проход по лестницам, материалы на GPU и FPS ещё не проверены. Это не подтверждённая standalone-сборка. [Отчёт](UnityProject/VALIDATION.json).
+
 
 ## Скачать
 

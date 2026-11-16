@@ -1,0 +1,12 @@
+{
+  "walkSpeed": 2.5,
+  "sprintSpeed": 7,
+  "mouseSensitivity": 0.12,
+  "jumpHeight": 0.65,
+  "renderDistance": 160,
+  "spawnBlender": [
+    66,
+    160,
+    0.12
+  ]
+}

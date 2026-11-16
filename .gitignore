@@ -5,3 +5,15 @@ __pycache__/
 RFC_BUILD/
 RFC_SMALL/
 .DS_Store
+
+# Unity editor and local build output
+UnityProject/[Ll]ibrary/
+UnityProject/[Tt]emp/
+UnityProject/[Oo]bj/
+UnityProject/[Ll]ogs/
+UnityProject/[Uu]ser[Ss]ettings/
+UnityProject/[Bb]uilds/
+UnityProject/MemoryCaptures/
+UnityProject/.vs/
+UnityProject/*.csproj
+UnityProject/*.sln

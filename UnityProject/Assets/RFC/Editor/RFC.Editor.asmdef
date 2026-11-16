@@ -1,0 +1,11 @@
+{
+  "name": "RFC.Editor",
+  "rootNamespace": "RFC.Horror.Editor",
+  "references": [
+    "RFC.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
