@@ -1,0 +1,299 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": [
+    {
+      "id": "B01-TRUNK",
+      "start_m": [
+        36.0,
+        60.0,
+        0.0
+      ],
+      "end_m": [
+        417.0,
+        60.0,
+        0.0
+      ],
+      "belt_top_m": 3.8899999999999997,
+      "width_m": 1.8,
+      "block": "B01",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B02-TRUNK",
+      "start_m": [
+        476.0,
+        60.0,
+        0.0
+      ],
+      "end_m": [
+        957.0,
+        60.0,
+        0.0
+      ],
+      "belt_top_m": 3.8899999999999997,
+      "width_m": 1.8,
+      "block": "B02",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-TRUNK",
+      "start_m": [
+        1016.0,
+        60.0,
+        0.0
+      ],
+      "end_m": [
+        1397.0,
+        60.0,
+        0.0
+      ],
+      "belt_top_m": 3.8899999999999997,
+      "width_m": 1.8,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-SORT-SPINE",
+      "start_m": [
+        1062.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1285.0,
+        224.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 2.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM0",
+      "start_m": [
+        1068.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1068.0,
+        191.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM1",
+      "start_m": [
+        1090.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1090.0,
+        267.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM2",
+      "start_m": [
+        1112.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1112.0,
+        191.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM3",
+      "start_m": [
+        1134.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1134.0,
+        267.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM4",
+      "start_m": [
+        1156.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1156.0,
+        191.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM5",
+      "start_m": [
+        1178.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1178.0,
+        267.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM6",
+      "start_m": [
+        1200.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1200.0,
+        191.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM7",
+      "start_m": [
+        1222.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1222.0,
+        267.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM8",
+      "start_m": [
+        1244.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1244.0,
+        191.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B03-ARM9",
+      "start_m": [
+        1266.0,
+        224.0,
+        0.0
+      ],
+      "end_m": [
+        1266.0,
+        267.0,
+        0.0
+      ],
+      "belt_top_m": 1.1400000000000001,
+      "width_m": 1.4,
+      "block": "B03",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B01-B02-BELT",
+      "start_m": [
+        420.0,
+        60.0,
+        0.0
+      ],
+      "end_m": [
+        440.0,
+        60.0,
+        0.0
+      ],
+      "belt_top_m": 3.8899999999999997,
+      "width_m": 1.8,
+      "block": "B01",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    },
+    {
+      "id": "B02-B03-BELT",
+      "start_m": [
+        960.0,
+        60.0,
+        0.0
+      ],
+      "end_m": [
+        980.0,
+        60.0,
+        0.0
+      ],
+      "belt_top_m": 3.8899999999999997,
+      "width_m": 1.8,
+      "block": "B02",
+      "speed_m_s": 0.8,
+      "sound_surface": "belt"
+    }
+  ]
+}

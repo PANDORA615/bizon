@@ -1,0 +1,24 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": {
+    "units": "meters",
+    "gltf_up": "Y",
+    "blender_to_unity_position": "GLTF exporter maps (x,y,z) to (x,z,-y). Importer may mirror Z for left-handed Unity; validate reference triad.",
+    "importer": "glTFast or compatible GLB importer required",
+    "materials": "Standard PBR images embedded in GLB. Grating alpha tested in Blender only.",
+    "colliders": "Construct from collision_proxies.json; do not use alpha mesh for grating collision.",
+    "lights": "Rebuild using lighting_groups.json. GLB exports geometry/materials, not Blender area lights.",
+    "files": [
+      "Block_03.glb",
+      "Block_02.glb",
+      "Block_01.glb"
+    ],
+    "Unity_validation": "NOT_RUN"
+  }
+}

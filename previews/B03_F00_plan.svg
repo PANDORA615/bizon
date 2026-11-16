@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -28 444 404" width="888" height="808">
+<rect x="-12" y="-28" width="444" height="404" fill="#101a24"/>
+<text x="0" y="-12" font-family="sans-serif" font-size="10" fill="white">RFC HORROR / B03 / F00 / +0.0m</text>
+<rect width="420" height="320" fill="#263440" stroke="#c7d4db"/>
+<rect x="12" y="180" width="53" height="70" fill="#55b8ca" fill-opacity=".25" stroke="#55b8ca" stroke-width=".5"/>
+<text x="14" y="185" fill="#55b8ca" font-family="sans-serif" font-size="3.4">B03-F00-RECEIVING</text>
+<rect x="70" y="190" width="140" height="70" fill="#d9ba6c" fill-opacity=".25" stroke="#d9ba6c" stroke-width=".5"/>
+<text x="72" y="195" fill="#d9ba6c" font-family="sans-serif" font-size="3.4">B03-F00-PACKING</text>
+<rect x="70" y="42" width="230" height="88" fill="#67b7a7" fill-opacity=".25" stroke="#67b7a7" stroke-width=".5"/>
+<text x="72" y="47" fill="#67b7a7" font-family="sans-serif" font-size="3.4">B03-F00-SORTING</text>
+<rect x="80" y="278" width="270" height="34" fill="#d7837c" fill-opacity=".25" stroke="#d7837c" stroke-width=".5"/>
+<text x="82" y="283" fill="#d7837c" font-family="sans-serif" font-size="3.4">B03-F00-SHIPPING</text>
+<rect x="320" y="185" width="80" height="65" fill="#68be8e" fill-opacity=".25" stroke="#68be8e" stroke-width=".5"/>
+<text x="322" y="190" fill="#68be8e" font-family="sans-serif" font-size="3.4">B03-F00-SECURITY</text>
+<rect x="30" y="255" width="360" height="15" fill="#69a0c7" fill-opacity=".25" stroke="#69a0c7" stroke-width=".5"/>
+<text x="32" y="260" fill="#69a0c7" font-family="sans-serif" font-size="3.4">B03-F00-CONVEYOR</text>
+<rect x="320" y="45" width="80" height="65" fill="#9a8ec1" fill-opacity=".25" stroke="#9a8ec1" stroke-width=".5"/>
+<text x="322" y="50" fill="#9a8ec1" font-family="sans-serif" font-size="3.4">B03-F00-SERVICE</text>
+<path d="M66,138 L308,138" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M308,138 L308,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M308,38 L66,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M66,38 L66,138" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M210.0,160 L66,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M66,160 L66,138" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M210.0,160 L308,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M308,160 L308,138" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M210.0,160 L66,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M66,160 L66,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M210.0,160 L308,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M308,160 L308,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M50.799999999999955,123 L66,123" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M66,123 L66,138" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M252.79999999999995,61 L252.79999999999995,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M252.79999999999995,38 L308,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M308,61 L308,38" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M3,160 L210.0,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M3,262 L42,262" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M42,262 L42,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<path d="M42,160 L210.0,160" stroke="#65dfb4" stroke-width="1" fill="none"/>
+<rect x="47" y="115.4" width="6.6" height="8.6" fill="#dfe6ee"/><text x="47" y="128" fill="white" font-size="3.5">STAIR</text>
+<rect x="249" y="53.4" width="6.6" height="8.6" fill="#dfe6ee"/><text x="249" y="66" fill="white" font-size="3.5">STAIR</text>
+<circle cx="0" cy="160" r="3" fill="#e8cc55"/>
+<circle cx="0" cy="260" r="3" fill="#e8cc55"/>
+<text x="0" y="332" fill="white" font-family="sans-serif" font-size="4.5">Scale: 1 SVG unit = 1m / X east / Y north / green = candidate walk graph</text>
+<text x="0" y="341" fill="#d3dfeb" font-family="sans-serif" font-size="4.5">Orange: racks. White: stairs. Yellow: portals. Agent collision test: see reports.</text>
+<text x="0" y="350" fill="#eebd64" font-family="sans-serif" font-size="4.5">Unity traversal, AI and streaming require integration and playtests.</text>
+</svg>

@@ -1,0 +1,7 @@
+*.blend binary
+*.glb binary
+*.zip binary
+*.png binary
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf

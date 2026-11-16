@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "method": "Final generator: fresh small scene versus regeneration over existing generated .blend. Compare every metadata JSON byte and object/mesh counts.",
+  "checks": {
+    "collision_proxies.json": true,
+    "conveyors.json": true,
+    "horror_markers.json": true,
+    "lighting_groups.json": true,
+    "navigation.json": true,
+    "portals.json": true,
+    "sectors.json": true,
+    "storage_cells.json": true,
+    "unity_import_manifest.json": true,
+    "warehouse_layout.json": true,
+    "zone_graph.json": true,
+    "no_object_count_growth": true,
+    "same_unique_meshes": true
+  },
+  "objects_each_run": 15608,
+  "generator_sha256": "1988c66084e3772a8c968281cc62812f50ab0ed28b7fb9c723fa018fbe5ee886"
+}

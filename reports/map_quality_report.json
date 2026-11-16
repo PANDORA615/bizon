@@ -1,0 +1,37 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": {
+    "criteria": {
+      "logical_connectivity_open": "PASS",
+      "single_stair_loss": "PASS",
+      "capacity_before_geometry": "PASS",
+      "full_blender_generation": "PASS",
+      "packed_textures": "PASS",
+      "mesh_id_uniqueness": "PASS",
+      "horizontal_graph_corridor_AABB": "PASS",
+      "swept_agent_geometry": "NOT_RUN",
+      "all_dynamic_door_states": "NOT_RUN",
+      "Unity_import": "NOT_RUN",
+      "Unity_playtests": "NOT_RUN",
+      "full_client_performance": "NOT_RUN",
+      "day_night_chases": "NOT_RUN",
+      "continuous_walk_video": "NOT_RUN",
+      "visual_review_12_frames": "NOT_RUN",
+      "streaming_runtime": "NOT_RUN",
+      "LOD_generation": "NOT_RUN"
+    },
+    "acceptance": "BLENDER_ARTIFACT; gameplay acceptance pending",
+    "limitations": [
+      "Static map + metadata. Unity systems (AI, WMS, server, shift scheduler, NavMesh, streaming) are not included.",
+      "Logical graph is not proof of collision-free character locomotion.",
+      "Audio markers only; no audio files.",
+      "No claim of complete RFC v3 acceptance."
+    ]
+  }
+}

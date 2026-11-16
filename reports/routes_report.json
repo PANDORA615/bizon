@@ -1,0 +1,98 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": {
+    "method": "Analytic graph distances, no operations, animation or door delays. NOT a Unity playtest.",
+    "routes": [
+      {
+        "from": "B01-F0-NW",
+        "to": "B01-F0-SE",
+        "length_m": 464.0,
+        "travel_s": 309.33,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B01-F1-NW",
+        "to": "B01-F1-SE",
+        "length_m": 464.0,
+        "travel_s": 309.33,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B01-F2-NW",
+        "to": "B01-F2-SE",
+        "length_m": 464.0,
+        "travel_s": 309.33,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B01-F3-NW",
+        "to": "B01-F3-SE",
+        "length_m": 464.0,
+        "travel_s": 309.33,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B02-F0-NW",
+        "to": "B02-F0-SE",
+        "length_m": 604.0,
+        "travel_s": 402.67,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B02-F1-NW",
+        "to": "B02-F1-SE",
+        "length_m": 604.0,
+        "travel_s": 402.67,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B02-F2-NW",
+        "to": "B02-F2-SE",
+        "length_m": 604.0,
+        "travel_s": 402.67,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B02-F3-NW",
+        "to": "B02-F3-SE",
+        "length_m": 604.0,
+        "travel_s": 402.67,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B03-F0-NW",
+        "to": "B03-F0-SE",
+        "length_m": 342.0,
+        "travel_s": 228.0,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B03-F1-NW",
+        "to": "B03-F1-SE",
+        "length_m": 250.0,
+        "travel_s": 166.67,
+        "class": "zone transfer"
+      },
+      {
+        "from": "B01-F0-HUB",
+        "to": "B03-F0-HUB",
+        "length_m": 980.0,
+        "travel_s": 653.3333333333334,
+        "class": "rare interblock transfer"
+      }
+    ],
+    "travel_s": {
+      "min": 166.67,
+      "median": 309.33,
+      "p95": 653.3333333333334,
+      "max": 653.3333333333334
+    },
+    "local_task_target_check": "NOT_RUN; server must cluster tasks per row pair"
+  }
+}

@@ -1,0 +1,2072 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": [
+    {
+      "zone_id": "B01-F00-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        60,
+        72,
+        0.0,
+        360,
+        264,
+        4.8
+      ],
+      "global_bounds_m": [
+        60,
+        72,
+        0.0,
+        360,
+        264,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-SW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        72,
+        84,
+        0.0,
+        200.0,
+        148,
+        4.8
+      ],
+      "global_bounds_m": [
+        72,
+        84,
+        0.0,
+        200.0,
+        148,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-NW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        72,
+        172,
+        0.0,
+        200.0,
+        250,
+        4.8
+      ],
+      "global_bounds_m": [
+        72,
+        172,
+        0.0,
+        200.0,
+        250,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-SE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        220.0,
+        84,
+        0.0,
+        348,
+        148,
+        4.8
+      ],
+      "global_bounds_m": [
+        220.0,
+        84,
+        0.0,
+        348,
+        148,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-NE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        220.0,
+        172,
+        0.0,
+        348,
+        250,
+        4.8
+      ],
+      "global_bounds_m": [
+        220.0,
+        172,
+        0.0,
+        348,
+        250,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F01-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B01",
+      "floor": 1,
+      "local_bounds_m": [
+        60,
+        72,
+        4.8,
+        360,
+        264,
+        9.6
+      ],
+      "global_bounds_m": [
+        60,
+        72,
+        4.8,
+        360,
+        264,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F01-SW",
+        "B01-F01-NW",
+        "B01-F01-SE",
+        "B01-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F1-HUB"
+    },
+    {
+      "zone_id": "B01-F01-SW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 1,
+      "local_bounds_m": [
+        72,
+        84,
+        4.8,
+        200.0,
+        148,
+        9.6
+      ],
+      "global_bounds_m": [
+        72,
+        84,
+        4.8,
+        200.0,
+        148,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F01-MEZZ",
+        "B01-F01-NW",
+        "B01-F01-SE",
+        "B01-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F1-HUB"
+    },
+    {
+      "zone_id": "B01-F01-NW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 1,
+      "local_bounds_m": [
+        72,
+        172,
+        4.8,
+        200.0,
+        250,
+        9.6
+      ],
+      "global_bounds_m": [
+        72,
+        172,
+        4.8,
+        200.0,
+        250,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F01-MEZZ",
+        "B01-F01-SW",
+        "B01-F01-SE",
+        "B01-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F1-HUB"
+    },
+    {
+      "zone_id": "B01-F01-SE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 1,
+      "local_bounds_m": [
+        220.0,
+        84,
+        4.8,
+        348,
+        148,
+        9.6
+      ],
+      "global_bounds_m": [
+        220.0,
+        84,
+        4.8,
+        348,
+        148,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F01-MEZZ",
+        "B01-F01-SW",
+        "B01-F01-NW",
+        "B01-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F1-HUB"
+    },
+    {
+      "zone_id": "B01-F01-NE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 1,
+      "local_bounds_m": [
+        220.0,
+        172,
+        4.8,
+        348,
+        250,
+        9.6
+      ],
+      "global_bounds_m": [
+        220.0,
+        172,
+        4.8,
+        348,
+        250,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F01-MEZZ",
+        "B01-F01-SW",
+        "B01-F01-NW",
+        "B01-F01-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F1-HUB"
+    },
+    {
+      "zone_id": "B01-F02-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B01",
+      "floor": 2,
+      "local_bounds_m": [
+        60,
+        72,
+        9.6,
+        360,
+        264,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        60,
+        72,
+        9.6,
+        360,
+        264,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F02-SW",
+        "B01-F02-NW",
+        "B01-F02-SE",
+        "B01-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F2-HUB"
+    },
+    {
+      "zone_id": "B01-F02-SW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 2,
+      "local_bounds_m": [
+        72,
+        84,
+        9.6,
+        200.0,
+        148,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        72,
+        84,
+        9.6,
+        200.0,
+        148,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F02-MEZZ",
+        "B01-F02-NW",
+        "B01-F02-SE",
+        "B01-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F2-HUB"
+    },
+    {
+      "zone_id": "B01-F02-NW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 2,
+      "local_bounds_m": [
+        72,
+        172,
+        9.6,
+        200.0,
+        250,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        72,
+        172,
+        9.6,
+        200.0,
+        250,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F02-MEZZ",
+        "B01-F02-SW",
+        "B01-F02-SE",
+        "B01-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F2-HUB"
+    },
+    {
+      "zone_id": "B01-F02-SE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 2,
+      "local_bounds_m": [
+        220.0,
+        84,
+        9.6,
+        348,
+        148,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        220.0,
+        84,
+        9.6,
+        348,
+        148,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F02-MEZZ",
+        "B01-F02-SW",
+        "B01-F02-NW",
+        "B01-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F2-HUB"
+    },
+    {
+      "zone_id": "B01-F02-NE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 2,
+      "local_bounds_m": [
+        220.0,
+        172,
+        9.6,
+        348,
+        250,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        220.0,
+        172,
+        9.6,
+        348,
+        250,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F02-MEZZ",
+        "B01-F02-SW",
+        "B01-F02-NW",
+        "B01-F02-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F2-HUB"
+    },
+    {
+      "zone_id": "B01-F03-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B01",
+      "floor": 3,
+      "local_bounds_m": [
+        60,
+        72,
+        14.399999999999999,
+        360,
+        264,
+        19.2
+      ],
+      "global_bounds_m": [
+        60,
+        72,
+        14.399999999999999,
+        360,
+        264,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F03-SW",
+        "B01-F03-NW",
+        "B01-F03-SE",
+        "B01-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F3-HUB"
+    },
+    {
+      "zone_id": "B01-F03-SW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 3,
+      "local_bounds_m": [
+        72,
+        84,
+        14.399999999999999,
+        200.0,
+        148,
+        19.2
+      ],
+      "global_bounds_m": [
+        72,
+        84,
+        14.399999999999999,
+        200.0,
+        148,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F03-MEZZ",
+        "B01-F03-NW",
+        "B01-F03-SE",
+        "B01-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F3-HUB"
+    },
+    {
+      "zone_id": "B01-F03-NW",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 3,
+      "local_bounds_m": [
+        72,
+        172,
+        14.399999999999999,
+        200.0,
+        250,
+        19.2
+      ],
+      "global_bounds_m": [
+        72,
+        172,
+        14.399999999999999,
+        200.0,
+        250,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F03-MEZZ",
+        "B01-F03-SW",
+        "B01-F03-SE",
+        "B01-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F3-HUB"
+    },
+    {
+      "zone_id": "B01-F03-SE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 3,
+      "local_bounds_m": [
+        220.0,
+        84,
+        14.399999999999999,
+        348,
+        148,
+        19.2
+      ],
+      "global_bounds_m": [
+        220.0,
+        84,
+        14.399999999999999,
+        348,
+        148,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F03-MEZZ",
+        "B01-F03-SW",
+        "B01-F03-NW",
+        "B01-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F3-HUB"
+    },
+    {
+      "zone_id": "B01-F03-NE",
+      "type": "PICKING",
+      "block": "B01",
+      "floor": 3,
+      "local_bounds_m": [
+        220.0,
+        172,
+        14.399999999999999,
+        348,
+        250,
+        19.2
+      ],
+      "global_bounds_m": [
+        220.0,
+        172,
+        14.399999999999999,
+        348,
+        250,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F03-MEZZ",
+        "B01-F03-SW",
+        "B01-F03-NW",
+        "B01-F03-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F3-HUB"
+    },
+    {
+      "zone_id": "B01-F00-RECEIVING",
+      "type": "RECEIVING",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        6,
+        0,
+        350,
+        42,
+        4.8
+      ],
+      "global_bounds_m": [
+        70,
+        6,
+        0,
+        350,
+        42,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-QUARANTINE",
+      "type": "QUARANTINE",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        16,
+        8,
+        0,
+        65,
+        60,
+        4.8
+      ],
+      "global_bounds_m": [
+        16,
+        8,
+        0,
+        65,
+        60,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-KGT",
+      "type": "KGT",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        270,
+        0,
+        350,
+        312,
+        4.8
+      ],
+      "global_bounds_m": [
+        70,
+        270,
+        0,
+        350,
+        312,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-SERVICE",
+      "type": "SERVICE",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        8,
+        76,
+        0,
+        38,
+        138,
+        4.8
+      ],
+      "global_bounds_m": [
+        8,
+        76,
+        0,
+        38,
+        138,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SECURITY",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-SECURITY",
+      "type": "SECURITY",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        8,
+        172,
+        0,
+        40,
+        230,
+        4.8
+      ],
+      "global_bounds_m": [
+        8,
+        172,
+        0,
+        40,
+        230,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B01-F00-CONVEYOR",
+      "type": "CONVEYOR",
+      "block": "B01",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        55,
+        0,
+        350,
+        65,
+        4.8
+      ],
+      "global_bounds_m": [
+        70,
+        55,
+        0,
+        350,
+        65,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B01-F00-MEZZ",
+        "B01-F00-SW",
+        "B01-F00-NW",
+        "B01-F00-SE",
+        "B01-F00-NE",
+        "B01-F00-RECEIVING",
+        "B01-F00-QUARANTINE",
+        "B01-F00-KGT",
+        "B01-F00-SERVICE",
+        "B01-F00-SECURITY"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B01-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        60,
+        72,
+        0.0,
+        460,
+        304,
+        4.8
+      ],
+      "global_bounds_m": [
+        500,
+        72,
+        0.0,
+        900,
+        304,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-SW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        72,
+        84,
+        0.0,
+        250.0,
+        148,
+        4.8
+      ],
+      "global_bounds_m": [
+        512,
+        84,
+        0.0,
+        690.0,
+        148,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-NW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        72,
+        172,
+        0.0,
+        250.0,
+        290,
+        4.8
+      ],
+      "global_bounds_m": [
+        512,
+        172,
+        0.0,
+        690.0,
+        290,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-SE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        270.0,
+        84,
+        0.0,
+        448,
+        148,
+        4.8
+      ],
+      "global_bounds_m": [
+        710.0,
+        84,
+        0.0,
+        888,
+        148,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-NE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        270.0,
+        172,
+        0.0,
+        448,
+        290,
+        4.8
+      ],
+      "global_bounds_m": [
+        710.0,
+        172,
+        0.0,
+        888,
+        290,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F01-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B02",
+      "floor": 1,
+      "local_bounds_m": [
+        60,
+        72,
+        4.8,
+        460,
+        304,
+        9.6
+      ],
+      "global_bounds_m": [
+        500,
+        72,
+        4.8,
+        900,
+        304,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F01-SW",
+        "B02-F01-NW",
+        "B02-F01-SE",
+        "B02-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F1-HUB"
+    },
+    {
+      "zone_id": "B02-F01-SW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 1,
+      "local_bounds_m": [
+        72,
+        84,
+        4.8,
+        250.0,
+        148,
+        9.6
+      ],
+      "global_bounds_m": [
+        512,
+        84,
+        4.8,
+        690.0,
+        148,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F01-MEZZ",
+        "B02-F01-NW",
+        "B02-F01-SE",
+        "B02-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F1-HUB"
+    },
+    {
+      "zone_id": "B02-F01-NW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 1,
+      "local_bounds_m": [
+        72,
+        172,
+        4.8,
+        250.0,
+        290,
+        9.6
+      ],
+      "global_bounds_m": [
+        512,
+        172,
+        4.8,
+        690.0,
+        290,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F01-MEZZ",
+        "B02-F01-SW",
+        "B02-F01-SE",
+        "B02-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F1-HUB"
+    },
+    {
+      "zone_id": "B02-F01-SE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 1,
+      "local_bounds_m": [
+        270.0,
+        84,
+        4.8,
+        448,
+        148,
+        9.6
+      ],
+      "global_bounds_m": [
+        710.0,
+        84,
+        4.8,
+        888,
+        148,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F01-MEZZ",
+        "B02-F01-SW",
+        "B02-F01-NW",
+        "B02-F01-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F1-HUB"
+    },
+    {
+      "zone_id": "B02-F01-NE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 1,
+      "local_bounds_m": [
+        270.0,
+        172,
+        4.8,
+        448,
+        290,
+        9.6
+      ],
+      "global_bounds_m": [
+        710.0,
+        172,
+        4.8,
+        888,
+        290,
+        9.6
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F01-MEZZ",
+        "B02-F01-SW",
+        "B02-F01-NW",
+        "B02-F01-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F1-HUB"
+    },
+    {
+      "zone_id": "B02-F02-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B02",
+      "floor": 2,
+      "local_bounds_m": [
+        60,
+        72,
+        9.6,
+        460,
+        304,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        500,
+        72,
+        9.6,
+        900,
+        304,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F02-SW",
+        "B02-F02-NW",
+        "B02-F02-SE",
+        "B02-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F2-HUB"
+    },
+    {
+      "zone_id": "B02-F02-SW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 2,
+      "local_bounds_m": [
+        72,
+        84,
+        9.6,
+        250.0,
+        148,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        512,
+        84,
+        9.6,
+        690.0,
+        148,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F02-MEZZ",
+        "B02-F02-NW",
+        "B02-F02-SE",
+        "B02-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F2-HUB"
+    },
+    {
+      "zone_id": "B02-F02-NW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 2,
+      "local_bounds_m": [
+        72,
+        172,
+        9.6,
+        250.0,
+        290,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        512,
+        172,
+        9.6,
+        690.0,
+        290,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F02-MEZZ",
+        "B02-F02-SW",
+        "B02-F02-SE",
+        "B02-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F2-HUB"
+    },
+    {
+      "zone_id": "B02-F02-SE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 2,
+      "local_bounds_m": [
+        270.0,
+        84,
+        9.6,
+        448,
+        148,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        710.0,
+        84,
+        9.6,
+        888,
+        148,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F02-MEZZ",
+        "B02-F02-SW",
+        "B02-F02-NW",
+        "B02-F02-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F2-HUB"
+    },
+    {
+      "zone_id": "B02-F02-NE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 2,
+      "local_bounds_m": [
+        270.0,
+        172,
+        9.6,
+        448,
+        290,
+        14.399999999999999
+      ],
+      "global_bounds_m": [
+        710.0,
+        172,
+        9.6,
+        888,
+        290,
+        14.399999999999999
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F02-MEZZ",
+        "B02-F02-SW",
+        "B02-F02-NW",
+        "B02-F02-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F2-HUB"
+    },
+    {
+      "zone_id": "B02-F03-MEZZ",
+      "type": "MEZZANINE",
+      "block": "B02",
+      "floor": 3,
+      "local_bounds_m": [
+        60,
+        72,
+        14.399999999999999,
+        460,
+        304,
+        19.2
+      ],
+      "global_bounds_m": [
+        500,
+        72,
+        14.399999999999999,
+        900,
+        304,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F03-SW",
+        "B02-F03-NW",
+        "B02-F03-SE",
+        "B02-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F3-HUB"
+    },
+    {
+      "zone_id": "B02-F03-SW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 3,
+      "local_bounds_m": [
+        72,
+        84,
+        14.399999999999999,
+        250.0,
+        148,
+        19.2
+      ],
+      "global_bounds_m": [
+        512,
+        84,
+        14.399999999999999,
+        690.0,
+        148,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F03-MEZZ",
+        "B02-F03-NW",
+        "B02-F03-SE",
+        "B02-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F3-HUB"
+    },
+    {
+      "zone_id": "B02-F03-NW",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 3,
+      "local_bounds_m": [
+        72,
+        172,
+        14.399999999999999,
+        250.0,
+        290,
+        19.2
+      ],
+      "global_bounds_m": [
+        512,
+        172,
+        14.399999999999999,
+        690.0,
+        290,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F03-MEZZ",
+        "B02-F03-SW",
+        "B02-F03-SE",
+        "B02-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F3-HUB"
+    },
+    {
+      "zone_id": "B02-F03-SE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 3,
+      "local_bounds_m": [
+        270.0,
+        84,
+        14.399999999999999,
+        448,
+        148,
+        19.2
+      ],
+      "global_bounds_m": [
+        710.0,
+        84,
+        14.399999999999999,
+        888,
+        148,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F03-MEZZ",
+        "B02-F03-SW",
+        "B02-F03-NW",
+        "B02-F03-NE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F3-HUB"
+    },
+    {
+      "zone_id": "B02-F03-NE",
+      "type": "PICKING",
+      "block": "B02",
+      "floor": 3,
+      "local_bounds_m": [
+        270.0,
+        172,
+        14.399999999999999,
+        448,
+        290,
+        19.2
+      ],
+      "global_bounds_m": [
+        710.0,
+        172,
+        14.399999999999999,
+        888,
+        290,
+        19.2
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F03-MEZZ",
+        "B02-F03-SW",
+        "B02-F03-NW",
+        "B02-F03-SE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F3-HUB"
+    },
+    {
+      "zone_id": "B02-F00-RECEIVING",
+      "type": "RECEIVING",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        6,
+        0,
+        450,
+        42,
+        4.8
+      ],
+      "global_bounds_m": [
+        510,
+        6,
+        0,
+        890,
+        42,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-QUARANTINE",
+      "type": "QUARANTINE",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        16,
+        8,
+        0,
+        65,
+        60,
+        4.8
+      ],
+      "global_bounds_m": [
+        456,
+        8,
+        0,
+        505,
+        60,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-KGT",
+      "type": "KGT",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        310,
+        0,
+        450,
+        352,
+        4.8
+      ],
+      "global_bounds_m": [
+        510,
+        310,
+        0,
+        890,
+        352,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-SERVICE",
+      "type": "SERVICE",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        8,
+        76,
+        0,
+        38,
+        138,
+        4.8
+      ],
+      "global_bounds_m": [
+        448,
+        76,
+        0,
+        478,
+        138,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SECURITY",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-SECURITY",
+      "type": "SECURITY",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        8,
+        172,
+        0,
+        40,
+        230,
+        4.8
+      ],
+      "global_bounds_m": [
+        448,
+        172,
+        0,
+        480,
+        230,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B02-F00-CONVEYOR",
+      "type": "CONVEYOR",
+      "block": "B02",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        55,
+        0,
+        450,
+        65,
+        4.8
+      ],
+      "global_bounds_m": [
+        510,
+        55,
+        0,
+        890,
+        65,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B02-F00-MEZZ",
+        "B02-F00-SW",
+        "B02-F00-NW",
+        "B02-F00-SE",
+        "B02-F00-NE",
+        "B02-F00-RECEIVING",
+        "B02-F00-QUARANTINE",
+        "B02-F00-KGT",
+        "B02-F00-SERVICE",
+        "B02-F00-SECURITY"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B02-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F01-TECH",
+      "type": "SERVICE",
+      "block": "B03",
+      "floor": 1,
+      "local_bounds_m": [
+        60,
+        190,
+        6,
+        250,
+        278,
+        10.8
+      ],
+      "global_bounds_m": [
+        1040,
+        190,
+        6,
+        1230,
+        278,
+        10.8
+      ],
+      "access": "OPEN",
+      "neighbors": [],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F1-HUB"
+    },
+    {
+      "zone_id": "B03-F00-RECEIVING",
+      "type": "RECEIVING",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        12,
+        70,
+        0,
+        65,
+        140,
+        4.8
+      ],
+      "global_bounds_m": [
+        992,
+        70,
+        0,
+        1045,
+        140,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-PACKING",
+        "B03-F00-SORTING",
+        "B03-F00-SHIPPING",
+        "B03-F00-SECURITY",
+        "B03-F00-CONVEYOR",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-PACKING",
+      "type": "PACKING",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        60,
+        0,
+        210,
+        130,
+        4.8
+      ],
+      "global_bounds_m": [
+        1050,
+        60,
+        0,
+        1190,
+        130,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-SORTING",
+        "B03-F00-SHIPPING",
+        "B03-F00-SECURITY",
+        "B03-F00-CONVEYOR",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-SORTING",
+      "type": "SORTING",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        70,
+        190,
+        0,
+        300,
+        278,
+        4.8
+      ],
+      "global_bounds_m": [
+        1050,
+        190,
+        0,
+        1280,
+        278,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-PACKING",
+        "B03-F00-SHIPPING",
+        "B03-F00-SECURITY",
+        "B03-F00-CONVEYOR",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-SHIPPING",
+      "type": "SHIPPING",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        80,
+        8,
+        0,
+        350,
+        42,
+        4.8
+      ],
+      "global_bounds_m": [
+        1060,
+        8,
+        0,
+        1330,
+        42,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-PACKING",
+        "B03-F00-SORTING",
+        "B03-F00-SECURITY",
+        "B03-F00-CONVEYOR",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-SECURITY",
+      "type": "SECURITY",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        320,
+        70,
+        0,
+        400,
+        135,
+        4.8
+      ],
+      "global_bounds_m": [
+        1300,
+        70,
+        0,
+        1380,
+        135,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-PACKING",
+        "B03-F00-SORTING",
+        "B03-F00-SHIPPING",
+        "B03-F00-CONVEYOR",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-CONVEYOR",
+      "type": "CONVEYOR",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        30,
+        50,
+        0,
+        390,
+        65,
+        4.8
+      ],
+      "global_bounds_m": [
+        1010,
+        50,
+        0,
+        1370,
+        65,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-PACKING",
+        "B03-F00-SORTING",
+        "B03-F00-SHIPPING",
+        "B03-F00-SECURITY",
+        "B03-F00-SERVICE"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    },
+    {
+      "zone_id": "B03-F00-SERVICE",
+      "type": "SERVICE",
+      "block": "B03",
+      "floor": 0,
+      "local_bounds_m": [
+        320,
+        210,
+        0,
+        400,
+        275,
+        4.8
+      ],
+      "global_bounds_m": [
+        1300,
+        210,
+        0,
+        1380,
+        275,
+        4.8
+      ],
+      "access": "OPEN",
+      "neighbors": [
+        "B03-F00-RECEIVING",
+        "B03-F00-PACKING",
+        "B03-F00-SORTING",
+        "B03-F00-SHIPPING",
+        "B03-F00-SECURITY",
+        "B03-F00-CONVEYOR"
+      ],
+      "portals": [],
+      "reserved_aisle_m": 2.4,
+      "navigation_hub": "B03-F0-HUB"
+    }
+  ]
+}

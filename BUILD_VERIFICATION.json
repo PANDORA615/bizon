@@ -1,0 +1,121 @@
+{
+  "deliverable": "Static full-scale Blender map and standalone Python generator",
+  "Blender": "4.3.2",
+  "generator_sha256": "1988c66084e3772a8c968281cc62812f50ab0ed28b7fb9c723fa018fbe5ee886",
+  "full_generation": {
+    "mode": "full",
+    "blender": "4.3.2",
+    "objects": 20908,
+    "unique_meshes": 150,
+    "triangles_unique": 12036,
+    "triangles_instanced": 6881700,
+    "rack_rows": 560,
+    "rack_sections": 42112,
+    "storage_cells": 168448,
+    "generation_seconds": 58.01,
+    "footprint_m2": 456000,
+    "Unity_performance": "NOT_RUN"
+  },
+  "logical_plan": {
+    "status": "PASS",
+    "scope": "Logical graph, OPEN access state; every single stair edge removed individually",
+    "missing_nodes": {
+      "human": [],
+      "horror": [],
+      "pallet_truck": []
+    },
+    "single_stair_failure_isolations": [],
+    "node_count": 179,
+    "edge_count": 239,
+    "rack_rows": 560,
+    "swept_volume_geometry": "NOT_RUN",
+    "Unity_NavMesh": "NOT_RUN",
+    "all_door_combinations": "NOT_RUN"
+  },
+  "horizontal_graph_corridors": {
+    "status": "PASS",
+    "method": "Conservative expanded AABB versus straight horizontal graph edges, standing height. Radius includes margin. Stair traversal, pallet-truck length and swept turning NOT_RUN.",
+    "tested_edge_agent_pairs": 269,
+    "violations": [],
+    "stair_collision_validation": "NOT_RUN",
+    "vehicle_turning_validation": "NOT_RUN"
+  },
+  "reproducibility": {
+    "status": "PASS",
+    "method": "Final generator: fresh small scene versus regeneration over existing generated .blend. Compare every metadata JSON byte and object/mesh counts.",
+    "checks": {
+      "collision_proxies.json": true,
+      "conveyors.json": true,
+      "horror_markers.json": true,
+      "lighting_groups.json": true,
+      "navigation.json": true,
+      "portals.json": true,
+      "sectors.json": true,
+      "storage_cells.json": true,
+      "unity_import_manifest.json": true,
+      "warehouse_layout.json": true,
+      "zone_graph.json": true,
+      "no_object_count_growth": true,
+      "same_unique_meshes": true
+    },
+    "objects_each_run": 15608,
+    "generator_sha256": "1988c66084e3772a8c968281cc62812f50ab0ed28b7fb9c723fa018fbe5ee886"
+  },
+  "readback_and_GLB_roundtrip": {
+    "blender_version": "4.3.2",
+    "blend_readback": "PASS",
+    "object_ids": "PASS",
+    "objects": 20908,
+    "packed_textures": 54,
+    "shared_unique_meshes": 150,
+    "default_cube_absent": "PASS",
+    "embedded_generator": "PASS",
+    "Block_03_GLB_roundtrip_Blender": "PASS",
+    "GLB_roundtrip_mesh_objects": 1537,
+    "GLB_roundtrip_bounds_m": [
+      [
+        979.8499755859375,
+        -0.15000000596046448,
+        -0.23999999463558197
+      ],
+      [
+        1400.1500244140625,
+        320.1499938964844,
+        24.0
+      ]
+    ],
+    "Unity_import": "NOT_RUN"
+  },
+  "texture_png_integrity": {
+    "status": "PASS",
+    "files": 54,
+    "resolution": [
+      256,
+      256
+    ]
+  },
+  "GLB_container_validation": {
+    "status": "PASS",
+    "files": [
+      "Block_01.glb",
+      "Block_02.glb",
+      "Block_03.glb"
+    ],
+    "embedded_images": true
+  },
+  "host": {
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "available_cpu_cores": 3
+  },
+  "Unity_import": "NOT_RUN",
+  "Unity_gameplay": "NOT_RUN",
+  "character_stair_traversal": "NOT_RUN",
+  "vehicle_swept_turns": "NOT_RUN",
+  "all_door_states": "NOT_RUN",
+  "continuous_walk_recording": "NOT_RUN",
+  "12_player_height_render_review": "NOT_RUN",
+  "Unity_FPS": "NOT_RUN",
+  "runtime_streaming": "NOT_IMPLEMENTED",
+  "LOD_library": "NOT_IMPLEMENTED",
+  "acceptance": "Blender artifacts verified. Full RFC v3 gameplay acceptance NOT established."
+}

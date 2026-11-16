@@ -1,0 +1,4431 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": [
+    {
+      "id": "B01-DAY-0-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        78,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-0-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        78,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-0-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        78,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-0-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        78,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-1-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        142,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-1-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        142,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-1-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        142,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-1-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        142,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-2-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        206,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-2-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        206,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-2-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        206,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-2-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        206,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-3-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        270,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-3-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        270,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-3-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        270,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-3-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        270,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-4-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        334,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-4-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        334,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-4-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        334,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-DAY-4-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        334,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F0-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-TASK-F1-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F1-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-TASK-F2-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        90,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        154,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        218,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        282,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-TASK-F2-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        346,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-NIGHT-0",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        50,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-EMERG-0",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        50,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-NIGHT-1",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        150,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-EMERG-1",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        150,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-NIGHT-2",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        250,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-EMERG-2",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        250,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-NIGHT-3",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        350,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-EMERG-3",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        350,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        78,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        118,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        158,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        198,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        238,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        278,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        318,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F0-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        358,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B01-SPINE-F1-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        78,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        118,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        158,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        198,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        238,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        278,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        318,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F1-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        358,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 1
+    },
+    {
+      "id": "B01-SPINE-F2-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        78,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        118,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        158,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        198,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        238,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        278,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        318,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F2-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        358,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 2
+    },
+    {
+      "id": "B01-SPINE-F3-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        78,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        118,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        158,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        198,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        238,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        278,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        318,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-SPINE-F3-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        358,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B01",
+      "floor": 3
+    },
+    {
+      "id": "B01-FLICKER",
+      "group": "FLICKER_GROUP",
+      "energy_w": 130,
+      "position_m": [
+        55,
+        85,
+        4
+      ],
+      "color": [
+        0.55,
+        0.68,
+        0.75
+      ],
+      "block": "B01",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-0-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        518,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-0-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        518,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-0-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        518,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-0-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        518,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-0-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        518,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-1-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        582,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-1-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        582,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-1-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        582,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-1-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        582,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-1-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        582,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-2-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        646,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-2-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        646,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-2-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        646,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-2-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        646,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-2-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        646,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-3-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        710,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-3-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        710,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-3-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        710,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-3-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        710,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-3-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        710,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-4-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        774,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-4-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        774,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-4-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        774,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-4-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        774,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-4-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        774,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-5-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        838,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-5-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        838,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-5-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        838,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-5-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        838,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-5-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        838,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-6-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        902,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-6-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        902,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-6-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        902,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-6-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        902,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-DAY-6-4",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        902,
+        316,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-410-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F0-410-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-TASK-F1-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-410-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        110,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F1-410-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        210,
+        9.05
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-TASK-F2-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        530,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        594,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        658,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        722,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        786,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-410-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        110,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-TASK-F2-410-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        850,
+        210,
+        13.85
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-NIGHT-0",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        490,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-EMERG-0",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        490,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-NIGHT-1",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        590,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-EMERG-1",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        590,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-NIGHT-2",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        690,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-EMERG-2",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        690,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-NIGHT-3",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        790,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-EMERG-3",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        790,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-NIGHT-4",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        890,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-EMERG-4",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        890,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        518,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        558,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        598,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        638,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        678,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        718,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        758,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        798,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-398",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        838,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F0-438",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        878,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B02-SPINE-F1-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        518,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        558,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        598,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        638,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        678,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        718,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        758,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        798,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-398",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        838,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F1-438",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        878,
+        160,
+        8.98
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 1
+    },
+    {
+      "id": "B02-SPINE-F2-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        518,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        558,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        598,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        638,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        678,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        718,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        758,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        798,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-398",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        838,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F2-438",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        878,
+        160,
+        13.78
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 2
+    },
+    {
+      "id": "B02-SPINE-F3-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        518,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        558,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        598,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        638,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        678,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        718,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        758,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        798,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-398",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        838,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-SPINE-F3-438",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        878,
+        160,
+        18.58
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B02",
+      "floor": 3
+    },
+    {
+      "id": "B02-FLICKER",
+      "group": "FLICKER_GROUP",
+      "energy_w": 130,
+      "position_m": [
+        495,
+        85,
+        4
+      ],
+      "color": [
+        0.55,
+        0.68,
+        0.75
+      ],
+      "block": "B02",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-0-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1058,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-0-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1058,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-0-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1058,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-0-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1058,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-1-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1122,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-1-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1122,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-1-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1122,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-1-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1122,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-2-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1186,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-2-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1186,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-2-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1186,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-2-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1186,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-3-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1250,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-3-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1250,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-3-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1250,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-3-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1250,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-4-0",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1314,
+        60,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-4-1",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1314,
+        124,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-4-2",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1314,
+        188,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-DAY-4-3",
+      "group": "DAY_MAIN",
+      "energy_w": 9000,
+      "position_m": [
+        1314,
+        252,
+        22
+      ],
+      "color": [
+        0.7,
+        0.82,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-90-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1070,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-90-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1070,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-154-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1134,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-154-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1134,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-218-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1198,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-218-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1198,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-282-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1262,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-282-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1262,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-346-110",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1326,
+        110,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-TASK-F0-346-210",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1326,
+        210,
+        4.25
+      ],
+      "color": [
+        0.72,
+        0.88,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-NIGHT-0",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        1030,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-EMERG-0",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        1030,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-NIGHT-1",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        1130,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-EMERG-1",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        1130,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-NIGHT-2",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        1230,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-EMERG-2",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        1230,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-NIGHT-3",
+      "group": "NIGHT_MAIN",
+      "energy_w": 1200,
+      "position_m": [
+        1330,
+        160,
+        9
+      ],
+      "color": [
+        0.11,
+        0.42,
+        0.55
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-EMERG-3",
+      "group": "EMERGENCY_RED",
+      "energy_w": 75,
+      "position_m": [
+        1330,
+        152,
+        3.1
+      ],
+      "color": [
+        1,
+        0.045,
+        0.02
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-78",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1058,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-118",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1098,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-158",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1138,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-198",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1178,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-238",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1218,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-278",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1258,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-318",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1298,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-SPINE-F0-358",
+      "group": "LOCAL_TASK",
+      "energy_w": 4500,
+      "position_m": [
+        1338,
+        160,
+        4.18
+      ],
+      "color": [
+        0.72,
+        0.84,
+        1
+      ],
+      "block": "B03",
+      "floor": 0
+    },
+    {
+      "id": "B03-FLICKER",
+      "group": "FLICKER_GROUP",
+      "energy_w": 130,
+      "position_m": [
+        1035,
+        85,
+        4
+      ],
+      "color": [
+        0.55,
+        0.68,
+        0.75
+      ],
+      "block": "B03",
+      "floor": 0
+    }
+  ]
+}

@@ -1,0 +1,5387 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": {
+    "nodes": {
+      "B01-F0-SW": {
+        "id": "B01-F0-SW",
+        "position_m": [
+          66,
+          80,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-SE": {
+        "id": "B01-F0-SE",
+        "position_m": [
+          354,
+          80,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-NW": {
+        "id": "B01-F0-NW",
+        "position_m": [
+          66,
+          256,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-NE": {
+        "id": "B01-F0-NE",
+        "position_m": [
+          354,
+          256,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-HUB": {
+        "id": "B01-F0-HUB",
+        "position_m": [
+          210.0,
+          160,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-MIDSW": {
+        "id": "B01-F0-MIDSW",
+        "position_m": [
+          66,
+          160,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-MIDSE": {
+        "id": "B01-F0-MIDSE",
+        "position_m": [
+          354,
+          160,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-MIDNW": {
+        "id": "B01-F0-MIDNW",
+        "position_m": [
+          66,
+          160,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F0-MIDNE": {
+        "id": "B01-F0-MIDNE",
+        "position_m": [
+          354,
+          160,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-F1-SW": {
+        "id": "B01-F1-SW",
+        "position_m": [
+          66,
+          80,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-SE": {
+        "id": "B01-F1-SE",
+        "position_m": [
+          354,
+          80,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-NW": {
+        "id": "B01-F1-NW",
+        "position_m": [
+          66,
+          256,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-NE": {
+        "id": "B01-F1-NE",
+        "position_m": [
+          354,
+          256,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-HUB": {
+        "id": "B01-F1-HUB",
+        "position_m": [
+          210.0,
+          160,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-MIDSW": {
+        "id": "B01-F1-MIDSW",
+        "position_m": [
+          66,
+          160,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-MIDSE": {
+        "id": "B01-F1-MIDSE",
+        "position_m": [
+          354,
+          160,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-MIDNW": {
+        "id": "B01-F1-MIDNW",
+        "position_m": [
+          66,
+          160,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F1-MIDNE": {
+        "id": "B01-F1-MIDNE",
+        "position_m": [
+          354,
+          160,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-F2-SW": {
+        "id": "B01-F2-SW",
+        "position_m": [
+          66,
+          80,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-SE": {
+        "id": "B01-F2-SE",
+        "position_m": [
+          354,
+          80,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-NW": {
+        "id": "B01-F2-NW",
+        "position_m": [
+          66,
+          256,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-NE": {
+        "id": "B01-F2-NE",
+        "position_m": [
+          354,
+          256,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-HUB": {
+        "id": "B01-F2-HUB",
+        "position_m": [
+          210.0,
+          160,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-MIDSW": {
+        "id": "B01-F2-MIDSW",
+        "position_m": [
+          66,
+          160,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-MIDSE": {
+        "id": "B01-F2-MIDSE",
+        "position_m": [
+          354,
+          160,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-MIDNW": {
+        "id": "B01-F2-MIDNW",
+        "position_m": [
+          66,
+          160,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F2-MIDNE": {
+        "id": "B01-F2-MIDNE",
+        "position_m": [
+          354,
+          160,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-F3-SW": {
+        "id": "B01-F3-SW",
+        "position_m": [
+          66,
+          80,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-SE": {
+        "id": "B01-F3-SE",
+        "position_m": [
+          354,
+          80,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-NW": {
+        "id": "B01-F3-NW",
+        "position_m": [
+          66,
+          256,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-NE": {
+        "id": "B01-F3-NE",
+        "position_m": [
+          354,
+          256,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-HUB": {
+        "id": "B01-F3-HUB",
+        "position_m": [
+          210.0,
+          160,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-MIDSW": {
+        "id": "B01-F3-MIDSW",
+        "position_m": [
+          66,
+          160,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-MIDSE": {
+        "id": "B01-F3-MIDSE",
+        "position_m": [
+          354,
+          160,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-MIDNW": {
+        "id": "B01-F3-MIDNW",
+        "position_m": [
+          66,
+          160,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-F3-MIDNE": {
+        "id": "B01-F3-MIDNE",
+        "position_m": [
+          354,
+          160,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-ST-SW-F0": {
+        "id": "B01-ST-SW-F0",
+        "position_m": [
+          50.8,
+          79,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B01-ST-SW-F0-LINK": {
+        "id": "B01-ST-SW-F0-LINK",
+        "position_m": [
+          66,
+          79,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-ST-SW-F1": {
+        "id": "B01-ST-SW-F1",
+        "position_m": [
+          50.8,
+          79,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B01-ST-SW-F1-LINK": {
+        "id": "B01-ST-SW-F1-LINK",
+        "position_m": [
+          66,
+          79,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-ST-SW-F2": {
+        "id": "B01-ST-SW-F2",
+        "position_m": [
+          50.8,
+          79,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B01-ST-SW-F2-LINK": {
+        "id": "B01-ST-SW-F2-LINK",
+        "position_m": [
+          66,
+          79,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-ST-SW-F3": {
+        "id": "B01-ST-SW-F3",
+        "position_m": [
+          50.8,
+          79,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B01-ST-SW-F3-LINK": {
+        "id": "B01-ST-SW-F3-LINK",
+        "position_m": [
+          66,
+          79,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-ST-SE-F0": {
+        "id": "B01-ST-SE-F0",
+        "position_m": [
+          368.8,
+          79,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B01-ST-SE-F0-LINK": {
+        "id": "B01-ST-SE-F0-LINK",
+        "position_m": [
+          354,
+          79,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-ST-SE-F1": {
+        "id": "B01-ST-SE-F1",
+        "position_m": [
+          368.8,
+          79,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B01-ST-SE-F1-LINK": {
+        "id": "B01-ST-SE-F1-LINK",
+        "position_m": [
+          354,
+          79,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-ST-SE-F2": {
+        "id": "B01-ST-SE-F2",
+        "position_m": [
+          368.8,
+          79,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B01-ST-SE-F2-LINK": {
+        "id": "B01-ST-SE-F2-LINK",
+        "position_m": [
+          354,
+          79,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-ST-SE-F3": {
+        "id": "B01-ST-SE-F3",
+        "position_m": [
+          368.8,
+          79,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B01-ST-SE-F3-LINK": {
+        "id": "B01-ST-SE-F3-LINK",
+        "position_m": [
+          354,
+          79,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-ST-NW-F0": {
+        "id": "B01-ST-NW-F0",
+        "position_m": [
+          50.8,
+          249,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B01-ST-NW-F0-LINK": {
+        "id": "B01-ST-NW-F0-LINK",
+        "position_m": [
+          66,
+          249,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-ST-NW-F1": {
+        "id": "B01-ST-NW-F1",
+        "position_m": [
+          50.8,
+          249,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B01-ST-NW-F1-LINK": {
+        "id": "B01-ST-NW-F1-LINK",
+        "position_m": [
+          66,
+          249,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-ST-NW-F2": {
+        "id": "B01-ST-NW-F2",
+        "position_m": [
+          50.8,
+          249,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B01-ST-NW-F2-LINK": {
+        "id": "B01-ST-NW-F2-LINK",
+        "position_m": [
+          66,
+          249,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-ST-NW-F3": {
+        "id": "B01-ST-NW-F3",
+        "position_m": [
+          50.8,
+          249,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B01-ST-NW-F3-LINK": {
+        "id": "B01-ST-NW-F3-LINK",
+        "position_m": [
+          66,
+          249,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B01-ST-NE-F0": {
+        "id": "B01-ST-NE-F0",
+        "position_m": [
+          368.8,
+          249,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B01-ST-NE-F0-LINK": {
+        "id": "B01-ST-NE-F0-LINK",
+        "position_m": [
+          354,
+          249,
+          0.0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-ST-NE-F1": {
+        "id": "B01-ST-NE-F1",
+        "position_m": [
+          368.8,
+          249,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B01-ST-NE-F1-LINK": {
+        "id": "B01-ST-NE-F1-LINK",
+        "position_m": [
+          354,
+          249,
+          4.8
+        ],
+        "block": "B01",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-ST-NE-F2": {
+        "id": "B01-ST-NE-F2",
+        "position_m": [
+          368.8,
+          249,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B01-ST-NE-F2-LINK": {
+        "id": "B01-ST-NE-F2-LINK",
+        "position_m": [
+          354,
+          249,
+          9.6
+        ],
+        "block": "B01",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B01-ST-NE-F3": {
+        "id": "B01-ST-NE-F3",
+        "position_m": [
+          368.8,
+          249,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B01-ST-NE-F3-LINK": {
+        "id": "B01-ST-NE-F3-LINK",
+        "position_m": [
+          354,
+          249,
+          14.399999999999999
+        ],
+        "block": "B01",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F0-SW": {
+        "id": "B02-F0-SW",
+        "position_m": [
+          506,
+          80,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-SE": {
+        "id": "B02-F0-SE",
+        "position_m": [
+          894,
+          80,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-NW": {
+        "id": "B02-F0-NW",
+        "position_m": [
+          506,
+          296,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-NE": {
+        "id": "B02-F0-NE",
+        "position_m": [
+          894,
+          296,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-HUB": {
+        "id": "B02-F0-HUB",
+        "position_m": [
+          700.0,
+          160,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-MIDSW": {
+        "id": "B02-F0-MIDSW",
+        "position_m": [
+          506,
+          160,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-MIDSE": {
+        "id": "B02-F0-MIDSE",
+        "position_m": [
+          894,
+          160,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-MIDNW": {
+        "id": "B02-F0-MIDNW",
+        "position_m": [
+          506,
+          160,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F0-MIDNE": {
+        "id": "B02-F0-MIDNE",
+        "position_m": [
+          894,
+          160,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-F1-SW": {
+        "id": "B02-F1-SW",
+        "position_m": [
+          506,
+          80,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-SE": {
+        "id": "B02-F1-SE",
+        "position_m": [
+          894,
+          80,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-NW": {
+        "id": "B02-F1-NW",
+        "position_m": [
+          506,
+          296,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-NE": {
+        "id": "B02-F1-NE",
+        "position_m": [
+          894,
+          296,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-HUB": {
+        "id": "B02-F1-HUB",
+        "position_m": [
+          700.0,
+          160,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-MIDSW": {
+        "id": "B02-F1-MIDSW",
+        "position_m": [
+          506,
+          160,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-MIDSE": {
+        "id": "B02-F1-MIDSE",
+        "position_m": [
+          894,
+          160,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-MIDNW": {
+        "id": "B02-F1-MIDNW",
+        "position_m": [
+          506,
+          160,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F1-MIDNE": {
+        "id": "B02-F1-MIDNE",
+        "position_m": [
+          894,
+          160,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-F2-SW": {
+        "id": "B02-F2-SW",
+        "position_m": [
+          506,
+          80,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-SE": {
+        "id": "B02-F2-SE",
+        "position_m": [
+          894,
+          80,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-NW": {
+        "id": "B02-F2-NW",
+        "position_m": [
+          506,
+          296,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-NE": {
+        "id": "B02-F2-NE",
+        "position_m": [
+          894,
+          296,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-HUB": {
+        "id": "B02-F2-HUB",
+        "position_m": [
+          700.0,
+          160,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-MIDSW": {
+        "id": "B02-F2-MIDSW",
+        "position_m": [
+          506,
+          160,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-MIDSE": {
+        "id": "B02-F2-MIDSE",
+        "position_m": [
+          894,
+          160,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-MIDNW": {
+        "id": "B02-F2-MIDNW",
+        "position_m": [
+          506,
+          160,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F2-MIDNE": {
+        "id": "B02-F2-MIDNE",
+        "position_m": [
+          894,
+          160,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-F3-SW": {
+        "id": "B02-F3-SW",
+        "position_m": [
+          506,
+          80,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-SE": {
+        "id": "B02-F3-SE",
+        "position_m": [
+          894,
+          80,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-NW": {
+        "id": "B02-F3-NW",
+        "position_m": [
+          506,
+          296,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-NE": {
+        "id": "B02-F3-NE",
+        "position_m": [
+          894,
+          296,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-HUB": {
+        "id": "B02-F3-HUB",
+        "position_m": [
+          700.0,
+          160,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-MIDSW": {
+        "id": "B02-F3-MIDSW",
+        "position_m": [
+          506,
+          160,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-MIDSE": {
+        "id": "B02-F3-MIDSE",
+        "position_m": [
+          894,
+          160,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-MIDNW": {
+        "id": "B02-F3-MIDNW",
+        "position_m": [
+          506,
+          160,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-F3-MIDNE": {
+        "id": "B02-F3-MIDNE",
+        "position_m": [
+          894,
+          160,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-ST-SW-F0": {
+        "id": "B02-ST-SW-F0",
+        "position_m": [
+          490.8,
+          79,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B02-ST-SW-F0-LINK": {
+        "id": "B02-ST-SW-F0-LINK",
+        "position_m": [
+          506,
+          79,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-ST-SW-F1": {
+        "id": "B02-ST-SW-F1",
+        "position_m": [
+          490.8,
+          79,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B02-ST-SW-F1-LINK": {
+        "id": "B02-ST-SW-F1-LINK",
+        "position_m": [
+          506,
+          79,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-ST-SW-F2": {
+        "id": "B02-ST-SW-F2",
+        "position_m": [
+          490.8,
+          79,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B02-ST-SW-F2-LINK": {
+        "id": "B02-ST-SW-F2-LINK",
+        "position_m": [
+          506,
+          79,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-ST-SW-F3": {
+        "id": "B02-ST-SW-F3",
+        "position_m": [
+          490.8,
+          79,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B02-ST-SW-F3-LINK": {
+        "id": "B02-ST-SW-F3-LINK",
+        "position_m": [
+          506,
+          79,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-ST-SE-F0": {
+        "id": "B02-ST-SE-F0",
+        "position_m": [
+          908.8,
+          79,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B02-ST-SE-F0-LINK": {
+        "id": "B02-ST-SE-F0-LINK",
+        "position_m": [
+          894,
+          79,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-ST-SE-F1": {
+        "id": "B02-ST-SE-F1",
+        "position_m": [
+          908.8,
+          79,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B02-ST-SE-F1-LINK": {
+        "id": "B02-ST-SE-F1-LINK",
+        "position_m": [
+          894,
+          79,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-ST-SE-F2": {
+        "id": "B02-ST-SE-F2",
+        "position_m": [
+          908.8,
+          79,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B02-ST-SE-F2-LINK": {
+        "id": "B02-ST-SE-F2-LINK",
+        "position_m": [
+          894,
+          79,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-ST-SE-F3": {
+        "id": "B02-ST-SE-F3",
+        "position_m": [
+          908.8,
+          79,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B02-ST-SE-F3-LINK": {
+        "id": "B02-ST-SE-F3-LINK",
+        "position_m": [
+          894,
+          79,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-ST-NW-F0": {
+        "id": "B02-ST-NW-F0",
+        "position_m": [
+          490.8,
+          289,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B02-ST-NW-F0-LINK": {
+        "id": "B02-ST-NW-F0-LINK",
+        "position_m": [
+          506,
+          289,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-ST-NW-F1": {
+        "id": "B02-ST-NW-F1",
+        "position_m": [
+          490.8,
+          289,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B02-ST-NW-F1-LINK": {
+        "id": "B02-ST-NW-F1-LINK",
+        "position_m": [
+          506,
+          289,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-ST-NW-F2": {
+        "id": "B02-ST-NW-F2",
+        "position_m": [
+          490.8,
+          289,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B02-ST-NW-F2-LINK": {
+        "id": "B02-ST-NW-F2-LINK",
+        "position_m": [
+          506,
+          289,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-ST-NW-F3": {
+        "id": "B02-ST-NW-F3",
+        "position_m": [
+          490.8,
+          289,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B02-ST-NW-F3-LINK": {
+        "id": "B02-ST-NW-F3-LINK",
+        "position_m": [
+          506,
+          289,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B02-ST-NE-F0": {
+        "id": "B02-ST-NE-F0",
+        "position_m": [
+          908.8,
+          289,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B02-ST-NE-F0-LINK": {
+        "id": "B02-ST-NE-F0-LINK",
+        "position_m": [
+          894,
+          289,
+          0.0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-ST-NE-F1": {
+        "id": "B02-ST-NE-F1",
+        "position_m": [
+          908.8,
+          289,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B02-ST-NE-F1-LINK": {
+        "id": "B02-ST-NE-F1-LINK",
+        "position_m": [
+          894,
+          289,
+          4.8
+        ],
+        "block": "B02",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B02-ST-NE-F2": {
+        "id": "B02-ST-NE-F2",
+        "position_m": [
+          908.8,
+          289,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "landing"
+      },
+      "B02-ST-NE-F2-LINK": {
+        "id": "B02-ST-NE-F2-LINK",
+        "position_m": [
+          894,
+          289,
+          9.6
+        ],
+        "block": "B02",
+        "floor": 2,
+        "kind": "walk"
+      },
+      "B02-ST-NE-F3": {
+        "id": "B02-ST-NE-F3",
+        "position_m": [
+          908.8,
+          289,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "landing"
+      },
+      "B02-ST-NE-F3-LINK": {
+        "id": "B02-ST-NE-F3-LINK",
+        "position_m": [
+          894,
+          289,
+          14.399999999999999
+        ],
+        "block": "B02",
+        "floor": 3,
+        "kind": "walk"
+      },
+      "B03-F0-SW": {
+        "id": "B03-F0-SW",
+        "position_m": [
+          1046,
+          182,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-SE": {
+        "id": "B03-F0-SE",
+        "position_m": [
+          1288,
+          182,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-NW": {
+        "id": "B03-F0-NW",
+        "position_m": [
+          1046,
+          282,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-NE": {
+        "id": "B03-F0-NE",
+        "position_m": [
+          1288,
+          282,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-HUB": {
+        "id": "B03-F0-HUB",
+        "position_m": [
+          1190.0,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-MIDSW": {
+        "id": "B03-F0-MIDSW",
+        "position_m": [
+          1046,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-MIDSE": {
+        "id": "B03-F0-MIDSE",
+        "position_m": [
+          1288,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-MIDNW": {
+        "id": "B03-F0-MIDNW",
+        "position_m": [
+          1046,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F0-MIDNE": {
+        "id": "B03-F0-MIDNE",
+        "position_m": [
+          1288,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-F1-SW": {
+        "id": "B03-F1-SW",
+        "position_m": [
+          1046,
+          198,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-SE": {
+        "id": "B03-F1-SE",
+        "position_m": [
+          1224,
+          198,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-NW": {
+        "id": "B03-F1-NW",
+        "position_m": [
+          1046,
+          270,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-NE": {
+        "id": "B03-F1-NE",
+        "position_m": [
+          1224,
+          270,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-HUB": {
+        "id": "B03-F1-HUB",
+        "position_m": [
+          1190.0,
+          230,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-MIDSW": {
+        "id": "B03-F1-MIDSW",
+        "position_m": [
+          1046,
+          230,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-MIDSE": {
+        "id": "B03-F1-MIDSE",
+        "position_m": [
+          1224,
+          230,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-MIDNW": {
+        "id": "B03-F1-MIDNW",
+        "position_m": [
+          1046,
+          230,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-F1-MIDNE": {
+        "id": "B03-F1-MIDNE",
+        "position_m": [
+          1224,
+          230,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-ST-SW-F0": {
+        "id": "B03-ST-SW-F0",
+        "position_m": [
+          1030.8,
+          197,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B03-ST-SW-F0-LINK": {
+        "id": "B03-ST-SW-F0-LINK",
+        "position_m": [
+          1046,
+          197,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-ST-SW-F1": {
+        "id": "B03-ST-SW-F1",
+        "position_m": [
+          1030.8,
+          197,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B03-ST-SW-F1-LINK": {
+        "id": "B03-ST-SW-F1-LINK",
+        "position_m": [
+          1046,
+          197,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B03-ST-NE-F0": {
+        "id": "B03-ST-NE-F0",
+        "position_m": [
+          1232.8,
+          259,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "landing"
+      },
+      "B03-ST-NE-F0-LINK": {
+        "id": "B03-ST-NE-F0-LINK",
+        "position_m": [
+          1288,
+          259,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-ST-NE-F0-DETOUR": {
+        "id": "B03-ST-NE-F0-DETOUR",
+        "position_m": [
+          1232.8,
+          282,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B03-ST-NE-F1": {
+        "id": "B03-ST-NE-F1",
+        "position_m": [
+          1232.8,
+          259,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "landing"
+      },
+      "B03-ST-NE-F1-LINK": {
+        "id": "B03-ST-NE-F1-LINK",
+        "position_m": [
+          1224,
+          259,
+          6
+        ],
+        "block": "B03",
+        "floor": 1,
+        "kind": "walk"
+      },
+      "B01-B02-MAIN-A": {
+        "id": "B01-B02-MAIN-A",
+        "position_m": [
+          417,
+          160,
+          0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-MAIN-B": {
+        "id": "B01-B02-MAIN-B",
+        "position_m": [
+          443,
+          160,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-A": {
+        "id": "B01-B02-LOGISTICS-A",
+        "position_m": [
+          417,
+          58,
+          0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-B": {
+        "id": "B01-B02-LOGISTICS-B",
+        "position_m": [
+          443,
+          58,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-A-TURN": {
+        "id": "B01-B02-LOGISTICS-A-TURN",
+        "position_m": [
+          42,
+          58,
+          0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-A-NORTH": {
+        "id": "B01-B02-LOGISTICS-A-NORTH",
+        "position_m": [
+          42,
+          160,
+          0
+        ],
+        "block": "B01",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-B-TURN": {
+        "id": "B01-B02-LOGISTICS-B-TURN",
+        "position_m": [
+          482,
+          58,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B01-B02-LOGISTICS-B-NORTH": {
+        "id": "B01-B02-LOGISTICS-B-NORTH",
+        "position_m": [
+          482,
+          160,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-MAIN-A": {
+        "id": "B02-B03-MAIN-A",
+        "position_m": [
+          957,
+          160,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-MAIN-B": {
+        "id": "B02-B03-MAIN-B",
+        "position_m": [
+          983,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-A": {
+        "id": "B02-B03-LOGISTICS-A",
+        "position_m": [
+          957,
+          58,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-B": {
+        "id": "B02-B03-LOGISTICS-B",
+        "position_m": [
+          983,
+          58,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-A-TURN": {
+        "id": "B02-B03-LOGISTICS-A-TURN",
+        "position_m": [
+          482,
+          58,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-A-NORTH": {
+        "id": "B02-B03-LOGISTICS-A-NORTH",
+        "position_m": [
+          482,
+          160,
+          0
+        ],
+        "block": "B02",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-B-TURN": {
+        "id": "B02-B03-LOGISTICS-B-TURN",
+        "position_m": [
+          1022,
+          58,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      },
+      "B02-B03-LOGISTICS-B-NORTH": {
+        "id": "B02-B03-LOGISTICS-B-NORTH",
+        "position_m": [
+          1022,
+          160,
+          0
+        ],
+        "block": "B03",
+        "floor": 0,
+        "kind": "walk"
+      }
+    },
+    "edges": [
+      {
+        "id": "B01-F0-SW__B01-F0-SE",
+        "a": "B01-F0-SW",
+        "b": "B01-F0-SE",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-SE__B01-F0-NE",
+        "a": "B01-F0-SE",
+        "b": "B01-F0-NE",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-NE__B01-F0-NW",
+        "a": "B01-F0-NE",
+        "b": "B01-F0-NW",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-NW__B01-F0-SW",
+        "a": "B01-F0-NW",
+        "b": "B01-F0-SW",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-HUB__B01-F0-MIDSW",
+        "a": "B01-F0-HUB",
+        "b": "B01-F0-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-MIDSW__B01-F0-SW",
+        "a": "B01-F0-MIDSW",
+        "b": "B01-F0-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-HUB__B01-F0-MIDSE",
+        "a": "B01-F0-HUB",
+        "b": "B01-F0-MIDSE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-MIDSE__B01-F0-SE",
+        "a": "B01-F0-MIDSE",
+        "b": "B01-F0-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-HUB__B01-F0-MIDNW",
+        "a": "B01-F0-HUB",
+        "b": "B01-F0-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-MIDNW__B01-F0-NW",
+        "a": "B01-F0-MIDNW",
+        "b": "B01-F0-NW",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-HUB__B01-F0-MIDNE",
+        "a": "B01-F0-HUB",
+        "b": "B01-F0-MIDNE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F0-MIDNE__B01-F0-NE",
+        "a": "B01-F0-MIDNE",
+        "b": "B01-F0-NE",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-F1-SW__B01-F1-SE",
+        "a": "B01-F1-SW",
+        "b": "B01-F1-SE",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-SE__B01-F1-NE",
+        "a": "B01-F1-SE",
+        "b": "B01-F1-NE",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-NE__B01-F1-NW",
+        "a": "B01-F1-NE",
+        "b": "B01-F1-NW",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-NW__B01-F1-SW",
+        "a": "B01-F1-NW",
+        "b": "B01-F1-SW",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-HUB__B01-F1-MIDSW",
+        "a": "B01-F1-HUB",
+        "b": "B01-F1-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-MIDSW__B01-F1-SW",
+        "a": "B01-F1-MIDSW",
+        "b": "B01-F1-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-HUB__B01-F1-MIDSE",
+        "a": "B01-F1-HUB",
+        "b": "B01-F1-MIDSE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-MIDSE__B01-F1-SE",
+        "a": "B01-F1-MIDSE",
+        "b": "B01-F1-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-HUB__B01-F1-MIDNW",
+        "a": "B01-F1-HUB",
+        "b": "B01-F1-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-MIDNW__B01-F1-NW",
+        "a": "B01-F1-MIDNW",
+        "b": "B01-F1-NW",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-HUB__B01-F1-MIDNE",
+        "a": "B01-F1-HUB",
+        "b": "B01-F1-MIDNE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F1-MIDNE__B01-F1-NE",
+        "a": "B01-F1-MIDNE",
+        "b": "B01-F1-NE",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-SW__B01-F2-SE",
+        "a": "B01-F2-SW",
+        "b": "B01-F2-SE",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-SE__B01-F2-NE",
+        "a": "B01-F2-SE",
+        "b": "B01-F2-NE",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-NE__B01-F2-NW",
+        "a": "B01-F2-NE",
+        "b": "B01-F2-NW",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-NW__B01-F2-SW",
+        "a": "B01-F2-NW",
+        "b": "B01-F2-SW",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-HUB__B01-F2-MIDSW",
+        "a": "B01-F2-HUB",
+        "b": "B01-F2-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-MIDSW__B01-F2-SW",
+        "a": "B01-F2-MIDSW",
+        "b": "B01-F2-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-HUB__B01-F2-MIDSE",
+        "a": "B01-F2-HUB",
+        "b": "B01-F2-MIDSE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-MIDSE__B01-F2-SE",
+        "a": "B01-F2-MIDSE",
+        "b": "B01-F2-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-HUB__B01-F2-MIDNW",
+        "a": "B01-F2-HUB",
+        "b": "B01-F2-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-MIDNW__B01-F2-NW",
+        "a": "B01-F2-MIDNW",
+        "b": "B01-F2-NW",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-HUB__B01-F2-MIDNE",
+        "a": "B01-F2-HUB",
+        "b": "B01-F2-MIDNE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F2-MIDNE__B01-F2-NE",
+        "a": "B01-F2-MIDNE",
+        "b": "B01-F2-NE",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-SW__B01-F3-SE",
+        "a": "B01-F3-SW",
+        "b": "B01-F3-SE",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-SE__B01-F3-NE",
+        "a": "B01-F3-SE",
+        "b": "B01-F3-NE",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-NE__B01-F3-NW",
+        "a": "B01-F3-NE",
+        "b": "B01-F3-NW",
+        "type": "walk",
+        "length_m": 288.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-NW__B01-F3-SW",
+        "a": "B01-F3-NW",
+        "b": "B01-F3-SW",
+        "type": "walk",
+        "length_m": 176.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-HUB__B01-F3-MIDSW",
+        "a": "B01-F3-HUB",
+        "b": "B01-F3-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-MIDSW__B01-F3-SW",
+        "a": "B01-F3-MIDSW",
+        "b": "B01-F3-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-HUB__B01-F3-MIDSE",
+        "a": "B01-F3-HUB",
+        "b": "B01-F3-MIDSE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-MIDSE__B01-F3-SE",
+        "a": "B01-F3-MIDSE",
+        "b": "B01-F3-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-HUB__B01-F3-MIDNW",
+        "a": "B01-F3-HUB",
+        "b": "B01-F3-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-MIDNW__B01-F3-NW",
+        "a": "B01-F3-MIDNW",
+        "b": "B01-F3-NW",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-HUB__B01-F3-MIDNE",
+        "a": "B01-F3-HUB",
+        "b": "B01-F3-MIDNE",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-F3-MIDNE__B01-F3-NE",
+        "a": "B01-F3-MIDNE",
+        "b": "B01-F3-NE",
+        "type": "walk",
+        "length_m": 96.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F0__B01-ST-SW-F0-LINK",
+        "a": "B01-ST-SW-F0",
+        "b": "B01-ST-SW-F0-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F0-LINK__B01-F0-SW",
+        "a": "B01-ST-SW-F0-LINK",
+        "b": "B01-F0-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F1__B01-ST-SW-F1-LINK",
+        "a": "B01-ST-SW-F1",
+        "b": "B01-ST-SW-F1-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F1-LINK__B01-F1-SW",
+        "a": "B01-ST-SW-F1-LINK",
+        "b": "B01-F1-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F0__B01-ST-SW-F1",
+        "a": "B01-ST-SW-F0",
+        "b": "B01-ST-SW-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F2__B01-ST-SW-F2-LINK",
+        "a": "B01-ST-SW-F2",
+        "b": "B01-ST-SW-F2-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F2-LINK__B01-F2-SW",
+        "a": "B01-ST-SW-F2-LINK",
+        "b": "B01-F2-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F1__B01-ST-SW-F2",
+        "a": "B01-ST-SW-F1",
+        "b": "B01-ST-SW-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F3__B01-ST-SW-F3-LINK",
+        "a": "B01-ST-SW-F3",
+        "b": "B01-ST-SW-F3-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F3-LINK__B01-F3-SW",
+        "a": "B01-ST-SW-F3-LINK",
+        "b": "B01-F3-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SW-F2__B01-ST-SW-F3",
+        "a": "B01-ST-SW-F2",
+        "b": "B01-ST-SW-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F0__B01-ST-SE-F0-LINK",
+        "a": "B01-ST-SE-F0",
+        "b": "B01-ST-SE-F0-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F0-LINK__B01-F0-SE",
+        "a": "B01-ST-SE-F0-LINK",
+        "b": "B01-F0-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F1__B01-ST-SE-F1-LINK",
+        "a": "B01-ST-SE-F1",
+        "b": "B01-ST-SE-F1-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F1-LINK__B01-F1-SE",
+        "a": "B01-ST-SE-F1-LINK",
+        "b": "B01-F1-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F0__B01-ST-SE-F1",
+        "a": "B01-ST-SE-F0",
+        "b": "B01-ST-SE-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F2__B01-ST-SE-F2-LINK",
+        "a": "B01-ST-SE-F2",
+        "b": "B01-ST-SE-F2-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F2-LINK__B01-F2-SE",
+        "a": "B01-ST-SE-F2-LINK",
+        "b": "B01-F2-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F1__B01-ST-SE-F2",
+        "a": "B01-ST-SE-F1",
+        "b": "B01-ST-SE-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F3__B01-ST-SE-F3-LINK",
+        "a": "B01-ST-SE-F3",
+        "b": "B01-ST-SE-F3-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F3-LINK__B01-F3-SE",
+        "a": "B01-ST-SE-F3-LINK",
+        "b": "B01-F3-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-SE-F2__B01-ST-SE-F3",
+        "a": "B01-ST-SE-F2",
+        "b": "B01-ST-SE-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F0__B01-ST-NW-F0-LINK",
+        "a": "B01-ST-NW-F0",
+        "b": "B01-ST-NW-F0-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F0-LINK__B01-F0-NW",
+        "a": "B01-ST-NW-F0-LINK",
+        "b": "B01-F0-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F1__B01-ST-NW-F1-LINK",
+        "a": "B01-ST-NW-F1",
+        "b": "B01-ST-NW-F1-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F1-LINK__B01-F1-NW",
+        "a": "B01-ST-NW-F1-LINK",
+        "b": "B01-F1-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F0__B01-ST-NW-F1",
+        "a": "B01-ST-NW-F0",
+        "b": "B01-ST-NW-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F2__B01-ST-NW-F2-LINK",
+        "a": "B01-ST-NW-F2",
+        "b": "B01-ST-NW-F2-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F2-LINK__B01-F2-NW",
+        "a": "B01-ST-NW-F2-LINK",
+        "b": "B01-F2-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F1__B01-ST-NW-F2",
+        "a": "B01-ST-NW-F1",
+        "b": "B01-ST-NW-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F3__B01-ST-NW-F3-LINK",
+        "a": "B01-ST-NW-F3",
+        "b": "B01-ST-NW-F3-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F3-LINK__B01-F3-NW",
+        "a": "B01-ST-NW-F3-LINK",
+        "b": "B01-F3-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NW-F2__B01-ST-NW-F3",
+        "a": "B01-ST-NW-F2",
+        "b": "B01-ST-NW-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F0__B01-ST-NE-F0-LINK",
+        "a": "B01-ST-NE-F0",
+        "b": "B01-ST-NE-F0-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F0-LINK__B01-F0-NE",
+        "a": "B01-ST-NE-F0-LINK",
+        "b": "B01-F0-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F1__B01-ST-NE-F1-LINK",
+        "a": "B01-ST-NE-F1",
+        "b": "B01-ST-NE-F1-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F1-LINK__B01-F1-NE",
+        "a": "B01-ST-NE-F1-LINK",
+        "b": "B01-F1-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F0__B01-ST-NE-F1",
+        "a": "B01-ST-NE-F0",
+        "b": "B01-ST-NE-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F2__B01-ST-NE-F2-LINK",
+        "a": "B01-ST-NE-F2",
+        "b": "B01-ST-NE-F2-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F2-LINK__B01-F2-NE",
+        "a": "B01-ST-NE-F2-LINK",
+        "b": "B01-F2-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F1__B01-ST-NE-F2",
+        "a": "B01-ST-NE-F1",
+        "b": "B01-ST-NE-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F3__B01-ST-NE-F3-LINK",
+        "a": "B01-ST-NE-F3",
+        "b": "B01-ST-NE-F3-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F3-LINK__B01-F3-NE",
+        "a": "B01-ST-NE-F3-LINK",
+        "b": "B01-F3-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-ST-NE-F2__B01-ST-NE-F3",
+        "a": "B01-ST-NE-F2",
+        "b": "B01-ST-NE-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F0-SW__B02-F0-SE",
+        "a": "B02-F0-SW",
+        "b": "B02-F0-SE",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-SE__B02-F0-NE",
+        "a": "B02-F0-SE",
+        "b": "B02-F0-NE",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-NE__B02-F0-NW",
+        "a": "B02-F0-NE",
+        "b": "B02-F0-NW",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-NW__B02-F0-SW",
+        "a": "B02-F0-NW",
+        "b": "B02-F0-SW",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-HUB__B02-F0-MIDSW",
+        "a": "B02-F0-HUB",
+        "b": "B02-F0-MIDSW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-MIDSW__B02-F0-SW",
+        "a": "B02-F0-MIDSW",
+        "b": "B02-F0-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-HUB__B02-F0-MIDSE",
+        "a": "B02-F0-HUB",
+        "b": "B02-F0-MIDSE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-MIDSE__B02-F0-SE",
+        "a": "B02-F0-MIDSE",
+        "b": "B02-F0-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-HUB__B02-F0-MIDNW",
+        "a": "B02-F0-HUB",
+        "b": "B02-F0-MIDNW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-MIDNW__B02-F0-NW",
+        "a": "B02-F0-MIDNW",
+        "b": "B02-F0-NW",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-HUB__B02-F0-MIDNE",
+        "a": "B02-F0-HUB",
+        "b": "B02-F0-MIDNE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F0-MIDNE__B02-F0-NE",
+        "a": "B02-F0-MIDNE",
+        "b": "B02-F0-NE",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-F1-SW__B02-F1-SE",
+        "a": "B02-F1-SW",
+        "b": "B02-F1-SE",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-SE__B02-F1-NE",
+        "a": "B02-F1-SE",
+        "b": "B02-F1-NE",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-NE__B02-F1-NW",
+        "a": "B02-F1-NE",
+        "b": "B02-F1-NW",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-NW__B02-F1-SW",
+        "a": "B02-F1-NW",
+        "b": "B02-F1-SW",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-HUB__B02-F1-MIDSW",
+        "a": "B02-F1-HUB",
+        "b": "B02-F1-MIDSW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-MIDSW__B02-F1-SW",
+        "a": "B02-F1-MIDSW",
+        "b": "B02-F1-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-HUB__B02-F1-MIDSE",
+        "a": "B02-F1-HUB",
+        "b": "B02-F1-MIDSE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-MIDSE__B02-F1-SE",
+        "a": "B02-F1-MIDSE",
+        "b": "B02-F1-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-HUB__B02-F1-MIDNW",
+        "a": "B02-F1-HUB",
+        "b": "B02-F1-MIDNW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-MIDNW__B02-F1-NW",
+        "a": "B02-F1-MIDNW",
+        "b": "B02-F1-NW",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-HUB__B02-F1-MIDNE",
+        "a": "B02-F1-HUB",
+        "b": "B02-F1-MIDNE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F1-MIDNE__B02-F1-NE",
+        "a": "B02-F1-MIDNE",
+        "b": "B02-F1-NE",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-SW__B02-F2-SE",
+        "a": "B02-F2-SW",
+        "b": "B02-F2-SE",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-SE__B02-F2-NE",
+        "a": "B02-F2-SE",
+        "b": "B02-F2-NE",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-NE__B02-F2-NW",
+        "a": "B02-F2-NE",
+        "b": "B02-F2-NW",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-NW__B02-F2-SW",
+        "a": "B02-F2-NW",
+        "b": "B02-F2-SW",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-HUB__B02-F2-MIDSW",
+        "a": "B02-F2-HUB",
+        "b": "B02-F2-MIDSW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-MIDSW__B02-F2-SW",
+        "a": "B02-F2-MIDSW",
+        "b": "B02-F2-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-HUB__B02-F2-MIDSE",
+        "a": "B02-F2-HUB",
+        "b": "B02-F2-MIDSE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-MIDSE__B02-F2-SE",
+        "a": "B02-F2-MIDSE",
+        "b": "B02-F2-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-HUB__B02-F2-MIDNW",
+        "a": "B02-F2-HUB",
+        "b": "B02-F2-MIDNW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-MIDNW__B02-F2-NW",
+        "a": "B02-F2-MIDNW",
+        "b": "B02-F2-NW",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-HUB__B02-F2-MIDNE",
+        "a": "B02-F2-HUB",
+        "b": "B02-F2-MIDNE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F2-MIDNE__B02-F2-NE",
+        "a": "B02-F2-MIDNE",
+        "b": "B02-F2-NE",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-SW__B02-F3-SE",
+        "a": "B02-F3-SW",
+        "b": "B02-F3-SE",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-SE__B02-F3-NE",
+        "a": "B02-F3-SE",
+        "b": "B02-F3-NE",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-NE__B02-F3-NW",
+        "a": "B02-F3-NE",
+        "b": "B02-F3-NW",
+        "type": "walk",
+        "length_m": 388.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-NW__B02-F3-SW",
+        "a": "B02-F3-NW",
+        "b": "B02-F3-SW",
+        "type": "walk",
+        "length_m": 216.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-HUB__B02-F3-MIDSW",
+        "a": "B02-F3-HUB",
+        "b": "B02-F3-MIDSW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-MIDSW__B02-F3-SW",
+        "a": "B02-F3-MIDSW",
+        "b": "B02-F3-SW",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-HUB__B02-F3-MIDSE",
+        "a": "B02-F3-HUB",
+        "b": "B02-F3-MIDSE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-MIDSE__B02-F3-SE",
+        "a": "B02-F3-MIDSE",
+        "b": "B02-F3-SE",
+        "type": "walk",
+        "length_m": 80.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-HUB__B02-F3-MIDNW",
+        "a": "B02-F3-HUB",
+        "b": "B02-F3-MIDNW",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-MIDNW__B02-F3-NW",
+        "a": "B02-F3-MIDNW",
+        "b": "B02-F3-NW",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-HUB__B02-F3-MIDNE",
+        "a": "B02-F3-HUB",
+        "b": "B02-F3-MIDNE",
+        "type": "walk",
+        "length_m": 194.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-F3-MIDNE__B02-F3-NE",
+        "a": "B02-F3-MIDNE",
+        "b": "B02-F3-NE",
+        "type": "walk",
+        "length_m": 136.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F0__B02-ST-SW-F0-LINK",
+        "a": "B02-ST-SW-F0",
+        "b": "B02-ST-SW-F0-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F0-LINK__B02-F0-SW",
+        "a": "B02-ST-SW-F0-LINK",
+        "b": "B02-F0-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F1__B02-ST-SW-F1-LINK",
+        "a": "B02-ST-SW-F1",
+        "b": "B02-ST-SW-F1-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F1-LINK__B02-F1-SW",
+        "a": "B02-ST-SW-F1-LINK",
+        "b": "B02-F1-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F0__B02-ST-SW-F1",
+        "a": "B02-ST-SW-F0",
+        "b": "B02-ST-SW-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F2__B02-ST-SW-F2-LINK",
+        "a": "B02-ST-SW-F2",
+        "b": "B02-ST-SW-F2-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F2-LINK__B02-F2-SW",
+        "a": "B02-ST-SW-F2-LINK",
+        "b": "B02-F2-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F1__B02-ST-SW-F2",
+        "a": "B02-ST-SW-F1",
+        "b": "B02-ST-SW-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F3__B02-ST-SW-F3-LINK",
+        "a": "B02-ST-SW-F3",
+        "b": "B02-ST-SW-F3-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F3-LINK__B02-F3-SW",
+        "a": "B02-ST-SW-F3-LINK",
+        "b": "B02-F3-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SW-F2__B02-ST-SW-F3",
+        "a": "B02-ST-SW-F2",
+        "b": "B02-ST-SW-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F0__B02-ST-SE-F0-LINK",
+        "a": "B02-ST-SE-F0",
+        "b": "B02-ST-SE-F0-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F0-LINK__B02-F0-SE",
+        "a": "B02-ST-SE-F0-LINK",
+        "b": "B02-F0-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F1__B02-ST-SE-F1-LINK",
+        "a": "B02-ST-SE-F1",
+        "b": "B02-ST-SE-F1-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F1-LINK__B02-F1-SE",
+        "a": "B02-ST-SE-F1-LINK",
+        "b": "B02-F1-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F0__B02-ST-SE-F1",
+        "a": "B02-ST-SE-F0",
+        "b": "B02-ST-SE-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F2__B02-ST-SE-F2-LINK",
+        "a": "B02-ST-SE-F2",
+        "b": "B02-ST-SE-F2-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F2-LINK__B02-F2-SE",
+        "a": "B02-ST-SE-F2-LINK",
+        "b": "B02-F2-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F1__B02-ST-SE-F2",
+        "a": "B02-ST-SE-F1",
+        "b": "B02-ST-SE-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F3__B02-ST-SE-F3-LINK",
+        "a": "B02-ST-SE-F3",
+        "b": "B02-ST-SE-F3-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F3-LINK__B02-F3-SE",
+        "a": "B02-ST-SE-F3-LINK",
+        "b": "B02-F3-SE",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-SE-F2__B02-ST-SE-F3",
+        "a": "B02-ST-SE-F2",
+        "b": "B02-ST-SE-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F0__B02-ST-NW-F0-LINK",
+        "a": "B02-ST-NW-F0",
+        "b": "B02-ST-NW-F0-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F0-LINK__B02-F0-NW",
+        "a": "B02-ST-NW-F0-LINK",
+        "b": "B02-F0-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F1__B02-ST-NW-F1-LINK",
+        "a": "B02-ST-NW-F1",
+        "b": "B02-ST-NW-F1-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F1-LINK__B02-F1-NW",
+        "a": "B02-ST-NW-F1-LINK",
+        "b": "B02-F1-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F0__B02-ST-NW-F1",
+        "a": "B02-ST-NW-F0",
+        "b": "B02-ST-NW-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F2__B02-ST-NW-F2-LINK",
+        "a": "B02-ST-NW-F2",
+        "b": "B02-ST-NW-F2-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F2-LINK__B02-F2-NW",
+        "a": "B02-ST-NW-F2-LINK",
+        "b": "B02-F2-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F1__B02-ST-NW-F2",
+        "a": "B02-ST-NW-F1",
+        "b": "B02-ST-NW-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F3__B02-ST-NW-F3-LINK",
+        "a": "B02-ST-NW-F3",
+        "b": "B02-ST-NW-F3-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F3-LINK__B02-F3-NW",
+        "a": "B02-ST-NW-F3-LINK",
+        "b": "B02-F3-NW",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NW-F2__B02-ST-NW-F3",
+        "a": "B02-ST-NW-F2",
+        "b": "B02-ST-NW-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F0__B02-ST-NE-F0-LINK",
+        "a": "B02-ST-NE-F0",
+        "b": "B02-ST-NE-F0-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F0-LINK__B02-F0-NE",
+        "a": "B02-ST-NE-F0-LINK",
+        "b": "B02-F0-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F1__B02-ST-NE-F1-LINK",
+        "a": "B02-ST-NE-F1",
+        "b": "B02-ST-NE-F1-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F1-LINK__B02-F1-NE",
+        "a": "B02-ST-NE-F1-LINK",
+        "b": "B02-F1-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F0__B02-ST-NE-F1",
+        "a": "B02-ST-NE-F0",
+        "b": "B02-ST-NE-F1",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F2__B02-ST-NE-F2-LINK",
+        "a": "B02-ST-NE-F2",
+        "b": "B02-ST-NE-F2-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F2-LINK__B02-F2-NE",
+        "a": "B02-ST-NE-F2-LINK",
+        "b": "B02-F2-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F1__B02-ST-NE-F2",
+        "a": "B02-ST-NE-F1",
+        "b": "B02-ST-NE-F2",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F3__B02-ST-NE-F3-LINK",
+        "a": "B02-ST-NE-F3",
+        "b": "B02-ST-NE-F3-LINK",
+        "type": "walk",
+        "length_m": 14.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F3-LINK__B02-F3-NE",
+        "a": "B02-ST-NE-F3-LINK",
+        "b": "B02-F3-NE",
+        "type": "walk",
+        "length_m": 7.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B02-ST-NE-F2__B02-ST-NE-F3",
+        "a": "B02-ST-NE-F2",
+        "b": "B02-ST-NE-F3",
+        "type": "stairs",
+        "length_m": 12.73312629199899,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F0-SW__B03-F0-SE",
+        "a": "B03-F0-SW",
+        "b": "B03-F0-SE",
+        "type": "walk",
+        "length_m": 242.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-SE__B03-F0-NE",
+        "a": "B03-F0-SE",
+        "b": "B03-F0-NE",
+        "type": "walk",
+        "length_m": 100.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-NE__B03-F0-NW",
+        "a": "B03-F0-NE",
+        "b": "B03-F0-NW",
+        "type": "walk",
+        "length_m": 242.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-NW__B03-F0-SW",
+        "a": "B03-F0-NW",
+        "b": "B03-F0-SW",
+        "type": "walk",
+        "length_m": 100.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-HUB__B03-F0-MIDSW",
+        "a": "B03-F0-HUB",
+        "b": "B03-F0-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-MIDSW__B03-F0-SW",
+        "a": "B03-F0-MIDSW",
+        "b": "B03-F0-SW",
+        "type": "walk",
+        "length_m": 22.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-HUB__B03-F0-MIDSE",
+        "a": "B03-F0-HUB",
+        "b": "B03-F0-MIDSE",
+        "type": "walk",
+        "length_m": 98.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-MIDSE__B03-F0-SE",
+        "a": "B03-F0-MIDSE",
+        "b": "B03-F0-SE",
+        "type": "walk",
+        "length_m": 22.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-HUB__B03-F0-MIDNW",
+        "a": "B03-F0-HUB",
+        "b": "B03-F0-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-MIDNW__B03-F0-NW",
+        "a": "B03-F0-MIDNW",
+        "b": "B03-F0-NW",
+        "type": "walk",
+        "length_m": 122.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-HUB__B03-F0-MIDNE",
+        "a": "B03-F0-HUB",
+        "b": "B03-F0-MIDNE",
+        "type": "walk",
+        "length_m": 98.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F0-MIDNE__B03-F0-NE",
+        "a": "B03-F0-MIDNE",
+        "b": "B03-F0-NE",
+        "type": "walk",
+        "length_m": 122.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B03-F1-SW__B03-F1-SE",
+        "a": "B03-F1-SW",
+        "b": "B03-F1-SE",
+        "type": "walk",
+        "length_m": 178.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-SE__B03-F1-NE",
+        "a": "B03-F1-SE",
+        "b": "B03-F1-NE",
+        "type": "walk",
+        "length_m": 72.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-NE__B03-F1-NW",
+        "a": "B03-F1-NE",
+        "b": "B03-F1-NW",
+        "type": "walk",
+        "length_m": 178.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-NW__B03-F1-SW",
+        "a": "B03-F1-NW",
+        "b": "B03-F1-SW",
+        "type": "walk",
+        "length_m": 72.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-HUB__B03-F1-MIDSW",
+        "a": "B03-F1-HUB",
+        "b": "B03-F1-MIDSW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-MIDSW__B03-F1-SW",
+        "a": "B03-F1-MIDSW",
+        "b": "B03-F1-SW",
+        "type": "walk",
+        "length_m": 32.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-HUB__B03-F1-MIDSE",
+        "a": "B03-F1-HUB",
+        "b": "B03-F1-MIDSE",
+        "type": "walk",
+        "length_m": 34.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-MIDSE__B03-F1-SE",
+        "a": "B03-F1-MIDSE",
+        "b": "B03-F1-SE",
+        "type": "walk",
+        "length_m": 32.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-HUB__B03-F1-MIDNW",
+        "a": "B03-F1-HUB",
+        "b": "B03-F1-MIDNW",
+        "type": "walk",
+        "length_m": 144.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-MIDNW__B03-F1-NW",
+        "a": "B03-F1-MIDNW",
+        "b": "B03-F1-NW",
+        "type": "walk",
+        "length_m": 40.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-HUB__B03-F1-MIDNE",
+        "a": "B03-F1-HUB",
+        "b": "B03-F1-MIDNE",
+        "type": "walk",
+        "length_m": 34.0,
+        "width_m": 6,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-F1-MIDNE__B03-F1-NE",
+        "a": "B03-F1-MIDNE",
+        "b": "B03-F1-NE",
+        "type": "walk",
+        "length_m": 40.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-SW-F0__B03-ST-SW-F0-LINK",
+        "a": "B03-ST-SW-F0",
+        "b": "B03-ST-SW-F0-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-SW-F0-LINK__B03-F0-SW",
+        "a": "B03-ST-SW-F0-LINK",
+        "b": "B03-F0-SW",
+        "type": "walk",
+        "length_m": 15.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-SW-F1__B03-ST-SW-F1-LINK",
+        "a": "B03-ST-SW-F1",
+        "b": "B03-ST-SW-F1-LINK",
+        "type": "walk",
+        "length_m": 15.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-SW-F1-LINK__B03-F1-SW",
+        "a": "B03-ST-SW-F1-LINK",
+        "b": "B03-F1-SW",
+        "type": "walk",
+        "length_m": 1.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-SW-F0__B03-ST-SW-F1",
+        "a": "B03-ST-SW-F0",
+        "b": "B03-ST-SW-F1",
+        "type": "stairs",
+        "length_m": 13.320777358467923,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F0__B03-ST-NE-F0-DETOUR",
+        "a": "B03-ST-NE-F0",
+        "b": "B03-ST-NE-F0-DETOUR",
+        "type": "walk",
+        "length_m": 23.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F0-DETOUR__B03-F0-NE",
+        "a": "B03-ST-NE-F0-DETOUR",
+        "b": "B03-F0-NE",
+        "type": "walk",
+        "length_m": 55.2,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F0-LINK__B03-F0-NE",
+        "a": "B03-ST-NE-F0-LINK",
+        "b": "B03-F0-NE",
+        "type": "walk",
+        "length_m": 23.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F1__B03-ST-NE-F1-LINK",
+        "a": "B03-ST-NE-F1",
+        "b": "B03-ST-NE-F1-LINK",
+        "type": "walk",
+        "length_m": 8.8,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F1-LINK__B03-F1-NE",
+        "a": "B03-ST-NE-F1-LINK",
+        "b": "B03-F1-NE",
+        "type": "walk",
+        "length_m": 11.0,
+        "width_m": 4,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B03-ST-NE-F0__B03-ST-NE-F1",
+        "a": "B03-ST-NE-F0",
+        "b": "B03-ST-NE-F1",
+        "type": "stairs",
+        "length_m": 13.320777358467923,
+        "width_m": 2.0,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror"
+        ]
+      },
+      {
+        "id": "B01-B02-MAIN-A__B01-B02-MAIN-B",
+        "a": "B01-B02-MAIN-A",
+        "b": "B01-B02-MAIN-B",
+        "type": "bridge",
+        "length_m": 26.0,
+        "width_m": 12,
+        "height_m": 3.2,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-MAIN-A__B01-F0-HUB",
+        "a": "B01-B02-MAIN-A",
+        "b": "B01-F0-HUB",
+        "type": "walk",
+        "length_m": 207.0,
+        "width_m": 12,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-MAIN-B__B02-F0-HUB",
+        "a": "B01-B02-MAIN-B",
+        "b": "B02-F0-HUB",
+        "type": "walk",
+        "length_m": 257.0,
+        "width_m": 12,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-A__B01-B02-LOGISTICS-B",
+        "a": "B01-B02-LOGISTICS-A",
+        "b": "B01-B02-LOGISTICS-B",
+        "type": "bridge",
+        "length_m": 26.0,
+        "width_m": 8,
+        "height_m": 3.2,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-A__B01-B02-LOGISTICS-A-TURN",
+        "a": "B01-B02-LOGISTICS-A",
+        "b": "B01-B02-LOGISTICS-A-TURN",
+        "type": "walk",
+        "length_m": 375.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-A-TURN__B01-B02-LOGISTICS-A-NORTH",
+        "a": "B01-B02-LOGISTICS-A-TURN",
+        "b": "B01-B02-LOGISTICS-A-NORTH",
+        "type": "walk",
+        "length_m": 102.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-A-NORTH__B01-F0-HUB",
+        "a": "B01-B02-LOGISTICS-A-NORTH",
+        "b": "B01-F0-HUB",
+        "type": "walk",
+        "length_m": 168.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-B__B01-B02-LOGISTICS-B-TURN",
+        "a": "B01-B02-LOGISTICS-B",
+        "b": "B01-B02-LOGISTICS-B-TURN",
+        "type": "walk",
+        "length_m": 39.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-B-TURN__B01-B02-LOGISTICS-B-NORTH",
+        "a": "B01-B02-LOGISTICS-B-TURN",
+        "b": "B01-B02-LOGISTICS-B-NORTH",
+        "type": "walk",
+        "length_m": 102.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B01-B02-LOGISTICS-B-NORTH__B02-F0-HUB",
+        "a": "B01-B02-LOGISTICS-B-NORTH",
+        "b": "B02-F0-HUB",
+        "type": "walk",
+        "length_m": 218.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-MAIN-A__B02-B03-MAIN-B",
+        "a": "B02-B03-MAIN-A",
+        "b": "B02-B03-MAIN-B",
+        "type": "bridge",
+        "length_m": 26.0,
+        "width_m": 12,
+        "height_m": 3.2,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-MAIN-A__B02-F0-HUB",
+        "a": "B02-B03-MAIN-A",
+        "b": "B02-F0-HUB",
+        "type": "walk",
+        "length_m": 257.0,
+        "width_m": 12,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-MAIN-B__B03-F0-HUB",
+        "a": "B02-B03-MAIN-B",
+        "b": "B03-F0-HUB",
+        "type": "walk",
+        "length_m": 207.0,
+        "width_m": 12,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-A__B02-B03-LOGISTICS-B",
+        "a": "B02-B03-LOGISTICS-A",
+        "b": "B02-B03-LOGISTICS-B",
+        "type": "bridge",
+        "length_m": 26.0,
+        "width_m": 8,
+        "height_m": 3.2,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-A__B02-B03-LOGISTICS-A-TURN",
+        "a": "B02-B03-LOGISTICS-A",
+        "b": "B02-B03-LOGISTICS-A-TURN",
+        "type": "walk",
+        "length_m": 475.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-A-TURN__B02-B03-LOGISTICS-A-NORTH",
+        "a": "B02-B03-LOGISTICS-A-TURN",
+        "b": "B02-B03-LOGISTICS-A-NORTH",
+        "type": "walk",
+        "length_m": 102.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-A-NORTH__B02-F0-HUB",
+        "a": "B02-B03-LOGISTICS-A-NORTH",
+        "b": "B02-F0-HUB",
+        "type": "walk",
+        "length_m": 218.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-B__B02-B03-LOGISTICS-B-TURN",
+        "a": "B02-B03-LOGISTICS-B",
+        "b": "B02-B03-LOGISTICS-B-TURN",
+        "type": "walk",
+        "length_m": 39.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-B-TURN__B02-B03-LOGISTICS-B-NORTH",
+        "a": "B02-B03-LOGISTICS-B-TURN",
+        "b": "B02-B03-LOGISTICS-B-NORTH",
+        "type": "walk",
+        "length_m": 102.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      },
+      {
+        "id": "B02-B03-LOGISTICS-B-NORTH__B03-F0-HUB",
+        "a": "B02-B03-LOGISTICS-B-NORTH",
+        "b": "B03-F0-HUB",
+        "type": "walk",
+        "length_m": 168.0,
+        "width_m": 8,
+        "height_m": 4.5,
+        "access": "OPEN",
+        "agents": [
+          "human",
+          "horror",
+          "pallet_truck"
+        ]
+      }
+    ],
+    "note": "Candidate graph checked against analytic obstacles; Unity NavMesh and swept-volume checks NOT_RUN."
+  }
+}

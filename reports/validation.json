@@ -1,0 +1,25 @@
+{
+  "provenance": {
+    "schema_version": "1.0",
+    "generator_version": "1.0.0",
+    "seed": 42001,
+    "config_sha256": "1819fc5f99941ec2442cfdab13fc0f5218677bfdc9b8305e30a018d208aa374c",
+    "coordinate_system": "Blender Z-up, meters; global positions; local=global minus block origin"
+  },
+  "data": {
+    "status": "PASS",
+    "scope": "Logical graph, OPEN access state; every single stair edge removed individually",
+    "missing_nodes": {
+      "human": [],
+      "horror": [],
+      "pallet_truck": []
+    },
+    "single_stair_failure_isolations": [],
+    "node_count": 179,
+    "edge_count": 239,
+    "rack_rows": 560,
+    "swept_volume_geometry": "NOT_RUN",
+    "Unity_NavMesh": "NOT_RUN",
+    "all_door_combinations": "NOT_RUN"
+  }
+}

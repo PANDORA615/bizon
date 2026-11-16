@@ -1,0 +1,25 @@
+{
+  "blender_version": "4.3.2",
+  "blend_readback": "PASS",
+  "object_ids": "PASS",
+  "objects": 20908,
+  "packed_textures": 54,
+  "shared_unique_meshes": 150,
+  "default_cube_absent": "PASS",
+  "embedded_generator": "PASS",
+  "Block_03_GLB_roundtrip_Blender": "PASS",
+  "GLB_roundtrip_mesh_objects": 1537,
+  "GLB_roundtrip_bounds_m": [
+    [
+      979.8499755859375,
+      -0.15000000596046448,
+      -0.23999999463558197
+    ],
+    [
+      1400.1500244140625,
+      320.1499938964844,
+      24.0
+    ]
+  ],
+  "Unity_import": "NOT_RUN"
+}

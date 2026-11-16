@@ -1,0 +1,48 @@
+{
+  "project": "RFC_Horror",
+  "seed": 42001,
+  "mode": "full",
+  "sector_size_m": 32,
+  "level_height_m": 4.8,
+  "main_aisle_m": 12.0,
+  "rack_bay_m": 1.2,
+  "rack_depth_m": 0.8,
+  "rack_aisle_m": 2.4,
+  "rack_sections_target": 80,
+  "rack_rows": {
+    "B01": 60,
+    "B02": 80
+  },
+  "strict_capacity": true,
+  "agents": {
+    "player_radius_m": 0.35,
+    "player_height_m": 1.8,
+    "step_height_m": 0.2,
+    "max_slope_deg": 35,
+    "clearance_margin_m": 0.15,
+    "walk_speed_m_s": 1.5,
+    "pallet_truck_width_m": 1.1,
+    "pallet_truck_height_m": 2.0,
+    "turn_radius_m": 2.0
+  },
+  "lighting": {
+    "shift": "DAY",
+    "night_main_ratio": 0.1,
+    "event_interval_s": 180
+  },
+  "routing": {
+    "sector_entry_target_s": [
+      20,
+      60
+    ],
+    "local_cycle_target_s": [
+      120,
+      300
+    ]
+  },
+  "performance_profile": {
+    "Unity": "NOT_RUN",
+    "pipeline": "UNSELECTED",
+    "target_hardware": "UNSPECIFIED"
+  }
+}
